@@ -320,6 +320,8 @@ evidence
 
 - [Summit](https://fredhohman.com/summit/) [[github]](https://github.com/fredhohman/summit)
 
+- [ActiVis](https://minsuk.com/research/activis/) [[arXive]](https://arxiv.org/abs/1704.01942)
+
 ## Online Articles
 
 ### 2019
