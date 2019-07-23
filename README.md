@@ -300,7 +300,7 @@ The process of identifying, addressing defects or issues within a deep learning 
 
 - [CNNVis](http://shixialiu.com/publications/cnnvis/demo/)
 
-- [ActiVis](https://arxiv.org/abs/1704.01942) provides a visual exploratory analysis of a given deep learning model via multiple coordinated views, such as a matrix view and an embedding view. [[slideshare]](https://www.slideshare.net/minsuk1015/activis-visual-exploration-of-industryscale-deep-neural-network-models) [[demo]]((https://minsuk.com/research/activis/))
+- [ActiVis](https://arxiv.org/abs/1704.01942) provides a visual exploratory analysis of a given deep learning model via multiple coordinated views, such as a matrix view and an embedding view. [[slideshare]](https://www.slideshare.net/minsuk1015/activis-visual-exploration-of-industryscale-deep-neural-network-models) [[demo]](https://minsuk.com/research/activis/)
 
 - [LSTMVis](http://lstm.seas.harvard.edu/) allows a user to select a hypothesis input range to focus on local state changes, to match these states changes to similar patterns in a large data set, and to align these results with structural annotations from their domain. [[github]](https://github.com/HendrikStrobelt/LSTMVis)
 
