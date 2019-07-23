@@ -320,6 +320,11 @@ evidence
 
 - [Summit] (https://fredhohman.com/summit/) [[github]] (https://github.com/fredhohman/summit)
 
+- [DNN Genealogy] (http://dnn.hkustvis.org/) [[github]] (https://github.com/wangqianwen0418/DNN-Genealogy)
+
+- [ReVACNN] (https://www.bckwon.com/publication/revacnn/)
+
+- [Summit] (https://fredhohman.com/summit/) [[github]] (https://github.com/fredhohman/summit)
 ## Online Articles
 
 ### 2019
