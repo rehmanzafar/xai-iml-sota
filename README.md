@@ -286,6 +286,39 @@ We illustrate our notion using a case study of FICO credit scores.
 
 * [ggeffects](https://strengejacke.wordpress.com/2017/05/24/ggeffects-create-tidy-data-frames-of-marginal-effects-for-ggplot-from-model-outputs-rstats/); Create Tidy Data Frames of Marginal Effects for ‚ggplot‘ from Model Outputs, The aim of the ggeffects-package is similar to the broom-package: transforming “untidy” input into a tidy data frame, especially for further use with ggplot. However, ggeffects does not return model-summaries; rather, this package computes marginal effects at the mean or average marginal effects from statistical models and returns the result as tidy data frame (as tibbles, to be more precisely).
 
+## Toolkits
+### Model debugging through visualisation toolkits
+the process of identifying and addressing defects or issues within a deep learning model that fails to converge or does not achieve an acceptable performance  
+
+- [TensorBoard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard) visualizes the structure of a given computational graph that a user creates and provides basic line graphs and histograms of user-selected statistics.
+
+- [Visdom](https://github.com/facebookresearch/visdom) is a web-based interactive visualization toolkit that is easy to use with deep learning libraries for PyTorch.
+
+- [DL4J UI](https://deeplearning4j.org/visualization) allows users to monitor the training process with several basic visualization components.
+
+- [DIGITS](https://developer.nvidia.com/digits) simplifies common deep learning tasks such as managing data, designing and training neural networks on multi-GPU systems, monitoring performance in real time with advanced visualizations, and selecting the best performing model from the results browser for deployment. 
+
+
+
+### Model refinement using visual analytics
+a method to interactively incorporate expert knowledge and expertise into the improvement and refinement process of a deep learning model, through a set of rich user interactions, in addition to semi-supervised learning or active learning 
+
+- [CNNVis](http://shixialiu.com/publications/cnnvis/demo/)
+
+- [ActiVis](https://arxiv.org/abs/1704.01942) provides a visual exploratory analysis of a given deep learning model via multiple coordinated views, such as a matrix view and an embedding view. [[slideshare]](https://www.slideshare.net/minsuk1015/activis-visual-exploration-of-industryscale-deep-neural-network-models)
+
+- [LSTMVis](http://lstm.seas.harvard.edu/) allows a user to select a hypothesis input range to focus on local state changes, to match these states changes to similar patterns in a large data set, and to align these results with structural annotations from their domain. [[github]](https://github.com/HendrikStrobelt/LSTMVis)
+
+- [DGMTracker](http://shixialiu.com/publications/dgmtracker/paper.pdf) is a visual analytics tool that helps experts understand and diagnose the training processes of deep generative
+models.
+
+- [GANViz](http://web.cse.ohio-state.edu/~wang.7665/image/research/pvis18.pdf) aims
+to help experts understand the adversarial process of GANs in-depth. Specifically, GANViz evaluates the model performance of two
+subnetworks of GANs, provides evidence and interpretations of the models’ performance, and empowers comparative analysis with the
+evidence
+
+- [Ensemble Viz](http://web.cse.ohio-state.edu/~wang.7665/ensemblevis/) 
+
 ## Online Articles
 
 ### 2019
