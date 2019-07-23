@@ -312,7 +312,7 @@ to help experts understand the adversarial process of GANs in-depth. Specificall
 subnetworks of GANs, provides evidence and interpretations of the models’ performance, and empowers comparative analysis with the
 evidence
 
-- [Ensemble Viz] (http://web.cse.ohio-state.edu/~wang.7665/ensemblevis) 
+- [EnsembleViz] (http://web.cse.ohio-state.edu/~wang.7665/ensemblevis) 
 
 - [DNN Genealogy] (http://dnn.hkustvis.org/) [[github]] (https://github.com/wangqianwen0418/DNN-Genealogy)
 
