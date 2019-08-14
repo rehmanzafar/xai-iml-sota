@@ -5,8 +5,9 @@
 * [Books and longer materials](README.md#books)
 * [Software tools](README.md#tools)
 * [Visualisation toolkits](README.md#toolkits)
-* [Short articles in newspapers](README.md#short)
-* [Misc](README.md#theses)
+* [Thesis](README.md#thesis)
+* [Online articles](README.md#online)
+* [Misc](README.md#other)
 
 ## Researchers
 * Naimul Khan [Google Scholars](https://scholar.google.ca/citations?hl=en&user=EJuUWlkAAAAJ&view_op=list_works&sortby=pubdate), [Web](https://www.ryerson.ca/multimedia-research-laboratory/people/naimul-khan/), [Research Group](https://www.ryerson.ca/multimedia-research-laboratory/)
@@ -414,7 +415,7 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 * [How We Analyzed the COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm); ProPublica investigation. Black defendants were often predicted to be at a higher risk of recidivism than they actually were. Our analysis found that black defendants who did not recidivate over a two-year period were nearly twice as likely to be misclassified as higher risk compared to their white counterparts (45 percent vs. 23 percent). The analysis also showed that even when controlling for prior crimes, future recidivism, age, and gender, black defendants were 45 percent more likely to be assigned higher risk scores than white defendants.
 
-## Theses
+## Thesis
 
 ### 2018 
 
