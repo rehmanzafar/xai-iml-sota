@@ -1,14 +1,14 @@
 # Interesting resources related to XAI (Explainable Artificial Intelligence)
 
-* [Active Researchers](README.md#active researchers)
+* [Active Researchers](README.md#researchers)
 * [Papers and preprints in scientific journals](README.md#papers)
 * [Books and longer materials](README.md#books)
 * [Software tools](README.md#tools)
 * [Visualisation toolkits](README.md#toolkits)
-* [Short articles in newspapers](README.md#online)
+* [Short articles in newspapers](README.md#short)
 * [Misc](README.md#theses)
 
-## Active Researchers
+## Researchers
 * Naimul Khan [Google Scholars](https://scholar.google.ca/citations?hl=en&user=EJuUWlkAAAAJ&view_op=list_works&sortby=pubdate), [Web](https://www.ryerson.ca/multimedia-research-laboratory/people/naimul-khan/), [Research Group](https://www.ryerson.ca/multimedia-research-laboratory/)
 * Been Kim [Google Scholars](https://scholar.google.com/citations?user=aGXkhcwAAAAJ&hl=en), [Web](https://beenkim.github.io/) 
 * Shixia Liu [Google Scholars](https://scholar.google.ca/citations?user=ZYDz2GIAAAAJ&hl=en&oi=sra), [Web](http://shixialiu.com/)
