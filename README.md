@@ -1,10 +1,21 @@
 # Interesting resources related to XAI (Explainable Artificial Intelligence)
 
+* [Active Researchers](README.md#researchers)
 * [Papers and preprints in scientific journals](README.md#papers)
 * [Books and longer materials](README.md#books)
 * [Software tools](README.md#tools)
 * [Short articles in newspapers](README.md#articles)
 * [Misc](README.md#theses)
+
+## Researchers
+* Been Kim [Google Scholars](https://scholar.google.com/citations?user=aGXkhcwAAAAJ&hl=en), [Web](https://beenkim.github.io/) 
+* Shixia Liu [Google Scholars](https://scholar.google.ca/citations?user=ZYDz2GIAAAAJ&hl=en&oi=sra), [Web](http://shixialiu.com/)
+* Andreas Holzinger [Google Scholars](https://scholar.google.com/citations?user=BTBd5V4AAAAJ&hl=en), [Web](http://www.aholzinger.at/), [Research Group](https://human-centered.ai/)
+* Cynthia Rudin [Google Scholars](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en), [Web](https://users.cs.duke.edu/~cynthia/home.html) 
+* Fred Hohman [Google Scholars](https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en), [Web](https://fredhohman.com/), [Github](https://github.com/fredhohman)
+* Marco Tulio Ribeiro [Google Scholars](https://scholar.google.com/citations?user=rmsIyGMAAAAJ&hl=en&oi=sra), [Web](https://homes.cs.washington.edu/~marcotcr/), [Github](https://github.com/marcotcr)
+* Rich Caruana [DBLP](https://dblp.uni-trier.de/pers/hd/c/Caruana:Rich)
+* Patrick Hall [Google Scholars](https://scholar.google.com/citations?user=cxvaldkAAAAJ&hl=en), [Github](https://github.com/jphall663)
 
 ## Papers
 
