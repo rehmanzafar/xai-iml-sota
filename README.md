@@ -4,6 +4,7 @@
 * [Papers and preprints in scientific journals](README.md#papers)
 * [Books and longer materials](README.md#books)
 * [Software tools](README.md#tools)
+* [Visualisation toolkits](README.md#toolkits)
 * [Short articles in newspapers](README.md#articles)
 * [Misc](README.md#theses)
 
