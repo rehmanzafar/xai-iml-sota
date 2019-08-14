@@ -1,11 +1,11 @@
 # Interesting resources related to XAI (Explainable Artificial Intelligence)
 
-* [Active Researchers](README.md#researchers)
+* [Active Researchers](README.md#active)
 * [Papers and preprints in scientific journals](README.md#papers)
 * [Books and longer materials](README.md#books)
 * [Software tools](README.md#tools)
 * [Visualisation toolkits](README.md#toolkits)
-* [Short articles in newspapers](README.md#articles)
+* [Short articles in newspapers](README.md#online)
 * [Misc](README.md#theses)
 
 ## Active Researchers
