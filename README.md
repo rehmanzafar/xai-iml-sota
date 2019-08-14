@@ -1,12 +1,16 @@
 # Interesting resources related to XAI (Explainable Artificial Intelligence)
 
 * [Active Researchers](README.md#researchers)
-* [Papers and preprints in scientific journals](README.md#papers)
+* [Publications in scientific journals](README.md#papers)
 * [Books and longer materials](README.md#books)
 * [Software tools](README.md#tools)
 * [Visualisation toolkits](README.md#toolkits)
 * [Thesis](README.md#thesis)
-* [Online articles](README.md#online)
+* [Online non-academic articles](README.md#online)
+* [Audios](README.md#audios)
+* [Videos](README.md#videos)
+* [Conferences](README.md#conferences)
+* [Workshops](README.md#workshops)
 * [Misc](README.md#other)
 
 ## Researchers
@@ -334,7 +338,7 @@ evidence
 
 - [Summit](https://fredhohman.com/summit/) [[github]](https://github.com/fredhohman/summit)
 
-## Online Articles
+## Online
 
 ### 2019
 
@@ -425,7 +429,9 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 * [Uncertainty and Label Noise in Machine Learning](https://dial.uclouvain.be/pr/boreal/object/boreal:134618/datastream/PDF_01/view); Benoit Frenay; This thesis addresses three challenge of machine learning: high-dimensional data, label noise and limited computational resources.
 
-## Audio
+## Videos
+
+## Audios
 
 ### 2018
 
@@ -433,6 +439,8 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [Approaches to Fairness in Machine Learning with Richard Zemel](https://twimlai.com/twiml-talk-209-approaches-to-fairness-in-machine-learning-with-richard-zemel/); Today we continue our exploration of Trust in AI with this interview with Richard Zemel, Professor in the department of Computer Science at the University of Toronto and Research Director at Vector Institute.
 
 * [Making Algorithms Trustworthy with David Spiegelhalter](https://twimlai.com/twiml-talk-212-making-algorithms-trustworthy-with-david-speigelhalter/); In this, the second episode of our NeurIPS series, we’re joined by David Spiegelhalter, Chair of Winton Center for Risk and Evidence Communication at Cambridge University and President of the Royal Statistical Society.
+
+## Conferences
 
 ## Workshops
 
