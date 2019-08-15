@@ -4,7 +4,7 @@
 * [Publications in scientific journals](README.md#papers)
 * [Books and longer materials](README.md#books)
 * [Software tools](README.md#tools)
-* [Visualisation toolkits](README.md#toolkits)
+* [Visualization toolkits](README.md#toolkits)
 * [Online demos](README.md#demos)
 * [Thesis](README.md#thesis)
 * [Online non-academic articles](README.md#online)
