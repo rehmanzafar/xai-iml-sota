@@ -5,6 +5,7 @@
 * [Books and longer materials](README.md#books)
 * [Software tools](README.md#tools)
 * [Visualisation toolkits](README.md#toolkits)
+* [Online demos](README.md#demos)
 * [Thesis](README.md#thesis)
 * [Online non-academic articles](README.md#online)
 * [Audios](README.md#audios)
@@ -21,6 +22,8 @@
 * Cynthia Rudin [Google Scholars](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en), [Web](https://users.cs.duke.edu/~cynthia/home.html) 
 * Fred Hohman [Google Scholars](https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en), [Web](https://fredhohman.com/), [Github](https://github.com/fredhohman)
 * Marco Tulio Ribeiro [Google Scholars](https://scholar.google.com/citations?user=rmsIyGMAAAAJ&hl=en&oi=sra), [Web](https://homes.cs.washington.edu/~marcotcr/), [Github](https://github.com/marcotcr)
+* Klaus-Robert Müller [Google Scholars](https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
+* Wojciech Samek [Google Scholars](https://scholar.google.com/citations?user=7aQwO08AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Rich Caruana [DBLP](https://dblp.uni-trier.de/pers/hd/c/Caruana:Rich)
 * Patrick Hall [Google Scholars](https://scholar.google.com/citations?user=cxvaldkAAAAJ&hl=en), [Github](https://github.com/jphall663)
 
@@ -271,6 +274,9 @@ We illustrate our notion using a case study of FICO credit scores.
 * [heatmapping.org](http://www.heatmapping.org/); This webpage aims to regroup publications and software produced as part of a joint project at Fraunhofer HHI, TU Berlin and SUTD Singapore on developing new method to understand nonlinear predictions of state-of-the-art machine learning models. Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many case, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artefacts. The project studies in particular techniques to decompose the prediction in terms of contributions of individual input variables such that the produced decomposition (i.e. explanation) can be visualized in the same way as the input data.
 
 * [ggeffects](https://strengejacke.wordpress.com/2019/01/14/ggeffects-0-8-0-now-on-cran-marginal-effects-for-regression-models-rstats/); Daniel Lüdecke; Compute marginal effects from statistical models and returns the result as tidy data frames. These data frames are ready to use with the 'ggplot2'-package. Marginal effects can be calculated for many different models. Interaction terms, splines and polynomial terms are also supported. The main functions are ggpredict(), ggemmeans() and ggeffect(). There is a generic plot()-method to plot the results using 'ggplot2'.
+
+## Demos
+[Explainable AI Demos](https://lrpserver.hhi.fraunhofer.de/); Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many cases, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artifacts. This demo shows how decisions made by systems based on artificial intelligence can be explained by LRP.
 
 ### 2018
 
