@@ -275,9 +275,6 @@ We illustrate our notion using a case study of FICO credit scores.
 
 * [ggeffects](https://strengejacke.wordpress.com/2019/01/14/ggeffects-0-8-0-now-on-cran-marginal-effects-for-regression-models-rstats/); Daniel Lüdecke; Compute marginal effects from statistical models and returns the result as tidy data frames. These data frames are ready to use with the 'ggplot2'-package. Marginal effects can be calculated for many different models. Interaction terms, splines and polynomial terms are also supported. The main functions are ggpredict(), ggemmeans() and ggeffect(). There is a generic plot()-method to plot the results using 'ggplot2'.
 
-## Demos
-[Explainable AI Demos](https://lrpserver.hhi.fraunhofer.de/); Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many cases, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artifacts. This demo shows how decisions made by systems based on artificial intelligence can be explained by LRP.
-
 ### 2018
 
 * [KDD 2018: Explainable Models for Healthcare AI](https://notepad.mmakowski.com/Tech/KDD%202018:%20Explainable%20Models%20for%20Healthcare%20AI); The Explainable Models for Healthcare AI tutorial was presented by a trio from KenSci Inc. that included a data scientist and a clinician. The premise of the session was that explainability is particularly important in healthcare applications of machine learning, due to the far-reaching consequences of decisions, high cost of mistakes, fairness and compliance requirements. The tutorial walked through a number of aspects of interpretability and discussed techniques that can be applied to explain model predictions.
@@ -343,6 +340,9 @@ evidence
 - [ReVACNN](https://www.bckwon.com/publication/revacnn/)
 
 - [Summit](https://fredhohman.com/summit/) [[github]](https://github.com/fredhohman/summit)
+
+## Demos
+* [Explainable AI Demos](https://lrpserver.hhi.fraunhofer.de/); Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many cases, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artifacts. This demo shows how decisions made by systems based on artificial intelligence can be explained by LRP.
 
 ## Online
 
