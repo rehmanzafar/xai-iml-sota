@@ -437,6 +437,25 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [Uncertainty and Label Noise in Machine Learning](https://dial.uclouvain.be/pr/boreal/object/boreal:134618/datastream/PDF_01/view); Benoit Frenay; This thesis addresses three challenge of machine learning: high-dimensional data, label noise and limited computational resources.
 
 ## Videos
+* Interpretability - now what? - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=5w_rgBbwQHw)
+* How to Fail Interpretability Research - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=jXkhcoZ9W24)
+* Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist [Watch on Youtube](https://www.youtube.com/watch?v=CY3t11vuuOM)
+* Machine Learning Interpretability with Driverless AI [Watch on Youtube](https://www.youtube.com/watch?v=3_gm00kBwEw)
+* Interpretable Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=3uLegw5HhYk)
+* Practical Tips for Interpreting Machine Learning Models - Patrick Hall, H2O.ai [Watch on Youtube](https://www.youtube.com/watch?v=vUqC8UPw9SU)
+* Interpretable Machine Learning Meetup [Watch on Youtube](https://www.youtube.com/watch?v=RcUdUZf8_SU)
+* CVPR18: Tutorial: Part 1: Interpretable Machine Learning for Computer Vision [Watch on Youtube](https://www.youtube.com/watch?v=MgawSHnYQGw)
+* Cynthia Rudin - Interpretable ML for Recidivism Prediction - The Frontiers of Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=MjxcwKN2dXs)
+* Algorithms for interpretable machine learning (KDD 2014 Presentation) [Watch on Youtube](https://www.youtube.com/watch?v=rtW7rPUTyck)
+* Cynthia Rudin: New Algorithms for Interpretable Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=FsLP-kkvIIw)
+* Interpretable Machine Learning: Methods for understanding complex models [Watch on Youtube](https://www.youtube.com/watch?v=LOuTHBIKlFs)
+* Machine Learning and Interpretability [Watch on Youtube](https://www.youtube.com/watch?v=NxYCY8-Qfx0)
+* Interpretability Beyond Feature Attribution [Watch on Youtube](https://www.youtube.com/watch?v=Ff-Dx79QEEY)
+* Interpretable machine learning (part 3): Shapley values and packages for IML [Watch on Youtube](https://www.youtube.com/watch?v=OiJGxA64bJs)
+* Kilian Weinberger, "Interpretable Machine Learning" [Watch on Youtube](https://www.youtube.com/watch?v=w0KFH8aSfG4)
+* Emily Fox: "Interpretable Neural Network Models for Granger Causality Discovery" [Watch on Youtube](https://www.youtube.com/watch?v=as3RpspRb88)
+* Inherent Trade-offs with the Local Explanations Paradigm [Watch on Youtube](https://www.youtube.com/watch?v=GqfwehSIhzg)
+* Interpreting Deep Neural Networks (DNNs) [Watch on Youtube](https://www.youtube.com/watch?v=mCDv3kpzqwQ)
 
 ## Audios
 
