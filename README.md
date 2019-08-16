@@ -437,6 +437,7 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [Uncertainty and Label Noise in Machine Learning](https://dial.uclouvain.be/pr/boreal/object/boreal:134618/datastream/PDF_01/view); Benoit Frenay; This thesis addresses three challenge of machine learning: high-dimensional data, label noise and limited computational resources.
 
 ## Videos
+* "Why Should I Trust you?" Explaining the Predictions of Any Classifier [Watch on Youtube](https://www.youtube.com/watch?v=KP7-JtFMLo4)
 * Interpretability - now what? - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=5w_rgBbwQHw)
 * How to Fail Interpretability Research - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=jXkhcoZ9W24)
 * Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist [Watch on Youtube](https://www.youtube.com/watch?v=CY3t11vuuOM)
@@ -456,6 +457,10 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * Emily Fox: "Interpretable Neural Network Models for Granger Causality Discovery" [Watch on Youtube](https://www.youtube.com/watch?v=as3RpspRb88)
 * Inherent Trade-offs with the Local Explanations Paradigm [Watch on Youtube](https://www.youtube.com/watch?v=GqfwehSIhzg)
 * Interpreting Deep Neural Networks (DNNs) [Watch on Youtube](https://www.youtube.com/watch?v=mCDv3kpzqwQ)
+* iml: A new Package for Model-Agnostic Interpretable Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=jP6Rg13PEkQ)
+* Open the Black Box: an Introduction to Model Interpretability with LIME and SHAP - Kevin Lemagnen [Watch on Youtube](https://www.youtube.com/watch?v=C80SQe16Rao)
+* Paper Review Calls 013 -- Bianca Furtuna -- Anchors: High-Precision Model-Agnostic Explanations [Watch on Youtube](https://www.youtube.com/watch?v=usBte1dj99Q)
+* Reliable Interpretability - Explaining AI Model Predictions | Sara Hooker @PyBay2018 [Watch on Youtube](https://www.youtube.com/watch?v=cHKp05g819A)
 
 ## Audios
 
