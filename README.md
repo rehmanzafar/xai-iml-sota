@@ -498,3 +498,5 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/fairness-overview/)
 * [Awesome Interpretable Machine Learning ](https://github.com/lopusz/awesome-interpretable-machine-learning) by Michał Łopuszyński
 * [Explainable AI: Expanding the frontiers of artificial intelligence](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence/explainable-ai-expanding-the-frontiers-of-artificial-intelligence)
+* XAI Resources [Link](https://github.com/pbiecek/xai_resources)
+* Awesome Machine Learning Interpretability [Link](https://github.com/jphall663/awesome-machine-learning-interpretability)
