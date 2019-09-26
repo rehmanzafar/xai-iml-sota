@@ -16,6 +16,7 @@
 
 ## Researchers
 * Naimul Khan [Google Scholars](https://scholar.google.ca/citations?hl=en&user=EJuUWlkAAAAJ&view_op=list_works&sortby=pubdate), [Web](https://www.ryerson.ca/multimedia-research-laboratory/people/naimul-khan/), [Research Group](https://www.ryerson.ca/multimedia-research-laboratory/)
+* Bum Chul Kwon [Google Scholars](https://scholar.google.ca/citations?hl=en&user=5jIJb38AAAAJ), [Web](https://www.bckwon.com/), [Web](https://github.com/bckwon)
 * Duen Horng (Polo) Chau [Google Scholars](https://scholar.google.com/citations?user=YON32W4AAAAJ), [Web](https://poloclub.github.io/polochau/), [Research Group](https://poloclub.github.io/), [Github](https://github.com/poloclub)
 * Alex Endert [Google Scholars](https://scholar.google.com/citations?user=_ZIAy3cAAAAJ&hl=en), [Web](http://va.gatech.edu/endert/), [Research Group](https://gtvalab.github.io/)
 * Been Kim [Google Scholars](https://scholar.google.com/citations?user=aGXkhcwAAAAJ&hl=en), [Web](https://beenkim.github.io/) 
@@ -23,6 +24,7 @@
 * Andreas Holzinger [Google Scholars](https://scholar.google.com/citations?user=BTBd5V4AAAAJ&hl=en), [Web](http://www.aholzinger.at/), [Research Group](https://human-centered.ai/)
 * Cynthia Rudin [Google Scholars](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en), [Web](https://users.cs.duke.edu/~cynthia/home.html) 
 * Fred Hohman [Google Scholars](https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en), [Web](https://fredhohman.com/), [Github](https://github.com/fredhohman)
+* Mennatallah El-Assady [Google Scholars](https://scholar.google.de/citations?user=ZEGgJM4AAAAJ&hl=en), [Web](https://el-assady.com/), [Research Group](http://vialab.science.uoit.ca/research)
 * Marco Tulio Ribeiro [Google Scholars](https://scholar.google.com/citations?user=rmsIyGMAAAAJ&hl=en&oi=sra), [Web](https://homes.cs.washington.edu/~marcotcr/), [Github](https://github.com/marcotcr)
 * Klaus-Robert Müller [Google Scholars](https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Wojciech Samek [Google Scholars](https://scholar.google.com/citations?user=7aQwO08AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
