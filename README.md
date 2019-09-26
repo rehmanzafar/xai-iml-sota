@@ -16,7 +16,7 @@
 
 ## Researchers
 * Naimul Khan [Google Scholars](https://scholar.google.ca/citations?hl=en&user=EJuUWlkAAAAJ&view_op=list_works&sortby=pubdate), [Web](https://www.ryerson.ca/multimedia-research-laboratory/people/naimul-khan/), [Research Group](https://www.ryerson.ca/multimedia-research-laboratory/)
-* Bum Chul Kwon [Google Scholars](https://scholar.google.ca/citations?hl=en&user=5jIJb38AAAAJ), [Web](https://www.bckwon.com/), [Web](https://github.com/bckwon)
+* Bum Chul Kwon [Google Scholars](https://scholar.google.ca/citations?hl=en&user=5jIJb38AAAAJ), [Web](https://www.bckwon.com/), [Github](https://github.com/bckwon)
 * Duen Horng (Polo) Chau [Google Scholars](https://scholar.google.com/citations?user=YON32W4AAAAJ), [Web](https://poloclub.github.io/polochau/), [Research Group](https://poloclub.github.io/), [Github](https://github.com/poloclub)
 * Alex Endert [Google Scholars](https://scholar.google.com/citations?user=_ZIAy3cAAAAJ&hl=en), [Web](http://va.gatech.edu/endert/), [Research Group](https://gtvalab.github.io/)
 * Been Kim [Google Scholars](https://scholar.google.com/citations?user=aGXkhcwAAAAJ&hl=en), [Web](https://beenkim.github.io/) 
