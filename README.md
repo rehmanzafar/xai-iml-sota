@@ -24,6 +24,7 @@
 * Andreas Holzinger [Google Scholars](https://scholar.google.com/citations?user=BTBd5V4AAAAJ&hl=en), [Web](http://www.aholzinger.at/), [Research Group](https://human-centered.ai/)
 * Cynthia Rudin [Google Scholars](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en), [Web](https://users.cs.duke.edu/~cynthia/home.html) 
 * Fred Hohman [Google Scholars](https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en), [Web](https://fredhohman.com/), [Github](https://github.com/fredhohman)
+* Ángel Alexander Cabrera [Google Scholars](https://scholar.google.com/citations?user=r89SDm0AAAAJ&hl=en), [Web](http://cabreraalex.com/), [Github](https://github.com/cabreraalex)
 * Mennatallah El-Assady [Google Scholars](https://scholar.google.de/citations?user=ZEGgJM4AAAAJ&hl=en), [Web](https://el-assady.com/), [Research Group](http://vialab.science.uoit.ca/research)
 * Marco Tulio Ribeiro [Google Scholars](https://scholar.google.com/citations?user=rmsIyGMAAAAJ&hl=en&oi=sra), [Web](https://homes.cs.washington.edu/~marcotcr/), [Github](https://github.com/marcotcr)
 * Klaus-Robert Müller [Google Scholars](https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
