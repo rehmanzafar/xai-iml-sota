@@ -1,6 +1,7 @@
 # Interesting resources related to XAI (Explainable Artificial Intelligence)
 
 * [Active Researchers](README.md#researchers)
+* [Lectures](README.md#lectures)
 * [Publications in scientific journals](README.md#papers)
 * [Books and longer materials](README.md#books)
 * [Software tools](README.md#tools)
@@ -18,6 +19,7 @@
 * Naimul Khan [Google Scholars](https://scholar.google.ca/citations?hl=en&user=EJuUWlkAAAAJ&view_op=list_works&sortby=pubdate), [Web](https://www.ryerson.ca/multimedia-research-laboratory/people/naimul-khan/), [Research Group](https://www.ryerson.ca/multimedia-research-laboratory/)
 * Bum Chul Kwon [Google Scholars](https://scholar.google.ca/citations?hl=en&user=5jIJb38AAAAJ), [Web](https://www.bckwon.com/), [Github](https://github.com/bckwon)
 * Duen Horng (Polo) Chau [Google Scholars](https://scholar.google.com/citations?user=YON32W4AAAAJ), [Web](https://poloclub.github.io/polochau/), [Research Group](https://poloclub.github.io/), [Github](https://github.com/poloclub)
+* Hima Lakkaraju [Google Scholars](https://scholar.google.com/citations?user=oWid5PQAAAAJ&hl=en), [Web](https://himalakkaraju.github.io/), [Github](https://github.com/lvhimabindu)
 * Alex Endert [Google Scholars](https://scholar.google.com/citations?user=_ZIAy3cAAAAJ&hl=en), [Web](http://va.gatech.edu/endert/), [Research Group](https://gtvalab.github.io/)
 * Been Kim [Google Scholars](https://scholar.google.com/citations?user=aGXkhcwAAAAJ&hl=en), [Web](https://beenkim.github.io/) 
 * Shixia Liu [Google Scholars](https://scholar.google.ca/citations?user=ZYDz2GIAAAAJ&hl=en&oi=sra), [Web](http://shixialiu.com/)
@@ -27,11 +29,15 @@
 * Ángel Alexander Cabrera [Google Scholars](https://scholar.google.com/citations?user=r89SDm0AAAAJ&hl=en), [Web](http://cabreraalex.com/), [Github](https://github.com/cabreraalex)
 * Mennatallah El-Assady [Google Scholars](https://scholar.google.de/citations?user=ZEGgJM4AAAAJ&hl=en), [Web](https://el-assady.com/), [Research Group](http://vialab.science.uoit.ca/research)
 * Marco Tulio Ribeiro [Google Scholars](https://scholar.google.com/citations?user=rmsIyGMAAAAJ&hl=en&oi=sra), [Web](https://homes.cs.washington.edu/~marcotcr/), [Github](https://github.com/marcotcr)
+* Scott Lundberg [Google Scholars](https://scholar.google.ca/citations?user=ESRugcEAAAAJ&hl=en), [Web](https://scottlundberg.com/), [Github](https://github.com/slundberg)
 * Klaus-Robert Müller [Google Scholars](https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Wojciech Samek [Google Scholars](https://scholar.google.com/citations?user=7aQwO08AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Sebastian Lapuschkin [Google Scholars](https://scholar.google.de/citations?user=wpLQuroAAAAJ&hl=en), [Web](http://iphome.hhi.de/lapuschkin/), [Github](https://github.com/sebastian-lapuschkin), [Research Group](http://www.explain-ai.org)
 * Rich Caruana [DBLP](https://dblp.uni-trier.de/pers/hd/c/Caruana:Rich)
 * Patrick Hall [Google Scholars](https://scholar.google.com/citations?user=cxvaldkAAAAJ&hl=en), [Github](https://github.com/jphall663)
+
+## Researchers
+* [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/); Instructor: Hima Lakkaraju
 
 ## Papers
 
