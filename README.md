@@ -36,7 +36,7 @@
 * Rich Caruana [DBLP](https://dblp.uni-trier.de/pers/hd/c/Caruana:Rich)
 * Patrick Hall [Google Scholars](https://scholar.google.com/citations?user=cxvaldkAAAAJ&hl=en), [Github](https://github.com/jphall663)
 
-## Researchers
+## Lectures
 * [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/); Instructor: Hima Lakkaraju
 
 ## Papers
