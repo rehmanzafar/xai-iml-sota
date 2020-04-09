@@ -262,7 +262,7 @@ We illustrate our notion using a case study of FICO credit scores.
 
 ## Books
 
-### 2018
+* [Human-in-the-Loop Machine Learning](https://www.manning.com/books/human-in-the-loop-machine-learning) [Github](https://github.com/rmunro/pytorch_active_learning); Robert Munro
 
 * [Machine Learning Interpretability with H2O Driverless AI](http://docs.h2o.ai/driverless-ai/latest-stable/docs/booklets/MLIBooklet.pdf); Patrick Hall, Navdeep Gill, Megan Kurka, Wen Phan; 
 
