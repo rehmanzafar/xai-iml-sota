@@ -40,6 +40,8 @@
 ## Lectures
 * [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/); Instructor: Hima Lakkaraju
 
+* [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020) at Warsaw University of Technology and University of Warsaw. Summer semester 2019/2020; Instructor: Przemysław Biecek
+
 ## Publications
 You can find a collection of scientific publications listed [here](publications.md). Also, latest publications can be downloaded from arxiv.org by executing the R script provided in [xai-iml-sota.R](xai-iml-sota.R) file.
 
@@ -54,6 +56,10 @@ You can find a collection of scientific publications listed [here](publications.
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/); Christoph Molnar; Intoduces the most popular methods (LIME, PDP, SHAP and few others) along with more general bird's-eye view over interpretability. 
 
 * [Explanatory Model Analysis](https://pbiecek.github.io/ema/); Przemyslaw Biecek and Tomasz Burzykowski; Explore, Explain and Examine Predictive Models
+
+* [XAI Stories](https://pbiecek.github.io/xai_stories/); This book is the result of a student projects for Interpretable Machine Learning course at the University of Warsaw and the Warsaw University of Technology. Each team has prepared one case study for selected XAI technique.
+
+* [Limitations of Interpretable Machine Learning Methods](https://compstat-lmu.github.io/iml_methods_limitations/); This book explains limitations of current methods in interpretable machine learning. The methods include partial dependence plots (PDP), Accumulated Local Effects (ALE), permutation feature importance, leave-one-covariate out (LOCO) and local interpretable model-agnostic explanations (LIME).
 
 
 ## Tools
