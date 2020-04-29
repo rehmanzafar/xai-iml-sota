@@ -41,7 +41,7 @@
 * [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/); Instructor: Hima Lakkaraju
 
 ## Publications
-You can find a collection of scientific publications listed [here](publications.md). Also, latest publications can be downloaded from arxive.org by executing the R script provided in [xai-iml-sota.R](xai-iml-sota.R) file.
+You can find a collection of scientific publications listed [here](publications.md). Also, latest publications can be downloaded from arxiv.org by executing the R script provided in [xai-iml-sota.R](xai-iml-sota.R) file.
 
 ## Books
 
