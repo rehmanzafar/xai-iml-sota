@@ -41,6 +41,7 @@
 * [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/); Instructor: Hima Lakkaraju
 
 ## Papers
+You can find publication [here](publications.md)
 
 ### 2019
 * [Interpretable Question Answering on Knowledge Bases and Text](https://arxiv.org/abs/1906.10924); Alona Sydorova, Nina Poerner, Benjamin Roth; Interpretability of machine learning (ML) models becomes more relevant with their increasing adoption. In this work, we address the interpretability of ML based question answering (QA) models on a combination of knowledge bases (KB) and text documents. We adapt post hoc explanation methods such as LIME and input perturbation (IP) and compare them with the self-explanatory attention mechanism of the model. For this purpose, we propose an automatic evaluation paradigm for explanation methods in the context of QA. We also conduct a study with human annotators to evaluate whether explanations help them identify better QA models. Our results suggest that IP provides better explanations than LIME or attention, according to both automatic and human evaluation. We obtain the same ranking of methods in both experiments, which supports the validity of our automatic evaluation paradigm.
@@ -271,10 +272,17 @@ We illustrate our notion using a case study of FICO credit scores.
 
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/); Christoph Molnar; Intoduces the most popular methods (LIME, PDP, SHAP and few others) along with more general bird's-eye view over interpretability. 
 
+* [Explanatory Model Analysis](https://pbiecek.github.io/ema/); Przemyslaw Biecek and Tomasz Burzykowski; Explore, Explain and Examine Predictive Models
+
 
 ## Tools
+* [LIME](https://github.com/marcotcr/lime); Explaining the predictions of any machine learning classifier. 
 
-### 2019
+* [DrWhy](https://github.com/ModelOriented/DrWhy); DrWhy is the collection of tools for eXplainable AI (XAI).
+
+* [DLIME](https://github.com/rehmanzafar/dlime_experiments); This work proposed a deterministic version of Local Interpretable Model Agnostic Explanations (LIME) and the experimental results on three different medical datasets shows the superiority for Deterministic Local Interpretable Model-Agnostic Explanations (DLIME). 
+
+* [shap](https://github.com/slundberg/shap); A game theoretic approach to explain the output of any machine learning model. 
 
 * [Aequitas: A Bias and Fairness Audit Toolkit](https://arxiv.org/abs/1811.05577v2); Recent work has raised concerns on the risk of unintended bias in AI systems being used nowadays that can affect individuals unfairly based on race, gender or religion, among other possible characteristics. While a lot of bias metrics and fairness definitions have been proposed in recent years, there is no consensus on which metric/definition should be used and there are very few available resources to operationalize them.  Aequitas facilitates informed and equitable decisions around developing and deploying algorithmic decision making systems for both data scientists, machine learning researchers and policymakers. 
 
@@ -287,8 +295,6 @@ We illustrate our notion using a case study of FICO credit scores.
 * [heatmapping.org](http://www.heatmapping.org/); This webpage aims to regroup publications and software produced as part of a joint project at Fraunhofer HHI, TU Berlin and SUTD Singapore on developing new method to understand nonlinear predictions of state-of-the-art machine learning models. Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many case, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artefacts. The project studies in particular techniques to decompose the prediction in terms of contributions of individual input variables such that the produced decomposition (i.e. explanation) can be visualized in the same way as the input data.
 
 * [ggeffects](https://strengejacke.wordpress.com/2019/01/14/ggeffects-0-8-0-now-on-cran-marginal-effects-for-regression-models-rstats/); Daniel Lüdecke; Compute marginal effects from statistical models and returns the result as tidy data frames. These data frames are ready to use with the 'ggplot2'-package. Marginal effects can be calculated for many different models. Interaction terms, splines and polynomial terms are also supported. The main functions are ggpredict(), ggemmeans() and ggeffect(). There is a generic plot()-method to plot the results using 'ggplot2'.
-
-### 2018
 
 * [KDD 2018: Explainable Models for Healthcare AI](https://notepad.mmakowski.com/Tech/KDD%202018:%20Explainable%20Models%20for%20Healthcare%20AI); The Explainable Models for Healthcare AI tutorial was presented by a trio from KenSci Inc. that included a data scientist and a clinician. The premise of the session was that explainability is particularly important in healthcare applications of machine learning, due to the far-reaching consequences of decisions, high cost of mistakes, fairness and compliance requirements. The tutorial walked through a number of aspects of interpretability and discussed techniques that can be applied to explain model predictions.
 
@@ -309,8 +315,6 @@ We illustrate our notion using a case study of FICO credit scores.
 * [AI Fairness 360](https://github.com/IBM/aif360); Python library developed by IBM to help detect and remove bias in machine learning models. [Some introduction](https://arxiv.org/abs/1810.01943)
 
 * [The What-If Tool: Code-Free Probing of Machine Learning Models](https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html); An interactive tool for What-If scenarios developed in Google, part of TensorBoard.
-
-### 2017
 
 * [Impact encoding for categorical features](https://github.com/Dpananos/Categorical-Features); Imagine working with a dataset containing all the zip codes in the United States. That is a datset containing nearly 40,000 unique categories. How would you deal with that kind of data if you planned to do predictive modelling? One hot encoding doesn't get you anywhere useful, since that would add 40,000 sparse variables to your dataset. Throwing the data out could be leaving valuable information on the table, so that doesn't seem right either. In this post, I'm going to examine how to deal with categorical variables with high cardinality using a stratey called impact encoding. To illustrate this example, I use a data set containing used car sales. The probelm is especially well suited because there are several categorical features with many levels. Let's get started.
 
@@ -342,9 +346,7 @@ The process of identifying, addressing defects or issues within a deep learning 
 models.
 
 - [GANViz](http://web.cse.ohio-state.edu/~wang.7665/image/research/pvis18.pdf) aims
-to help experts understand the adversarial process of GANs in-depth. Specifically, GANViz evaluates the model performance of two
-subnetworks of GANs, provides evidence and interpretations of the models’ performance, and empowers comparative analysis with the
-evidence
+to help experts understand the adversarial process of GANs in-depth. Specifically, GANViz evaluates the model performance of two subnet works of GANs, provides evidence and interpretations of the models’ performance, and empowers comparative analysis with the evidence
 
 - [EnsembleVis](https://junpengw.bitbucket.io/ensemblevis/index.html) 
 
