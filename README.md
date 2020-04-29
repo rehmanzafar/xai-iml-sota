@@ -33,6 +33,7 @@
 * Klaus-Robert Müller [Google Scholars](https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Wojciech Samek [Google Scholars](https://scholar.google.com/citations?user=7aQwO08AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Sebastian Lapuschkin [Google Scholars](https://scholar.google.de/citations?user=wpLQuroAAAAJ&hl=en), [Web](http://iphome.hhi.de/lapuschkin/), [Github](https://github.com/sebastian-lapuschkin), [Research Group](http://www.explain-ai.org)
+* Przemyslaw Biecek [Google Scholars](https://scholar.google.com/citations?user=Af0O75cAAAAJ&hl=en), [Github](https://github.com/pbiecek/), [Research Group](https://mi2-warsaw.github.io/)
 * Rich Caruana [DBLP](https://dblp.uni-trier.de/pers/hd/c/Caruana:Rich)
 * Patrick Hall [Google Scholars](https://scholar.google.com/citations?user=cxvaldkAAAAJ&hl=en), [Github](https://github.com/jphall663)
 
