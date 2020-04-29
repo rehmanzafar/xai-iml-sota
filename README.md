@@ -40,7 +40,9 @@
 ## Lectures
 * [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/). Fall 2019; Instructor: Hima Lakkaraju
 
-* [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020) at Warsaw University of Technology and University of Warsaw. Summer semester 2019/2020; Instructor: Przemysław Biecek
+* [Interpretable Machine Learning at Warsaw University of Technology and University of Warsaw](https://github.com/pbiecek/InterpretableMachineLearning2020). Summer semester 2019/2020; Instructor: Przemysław Biecek
+
+* [CS 294-131: Trustworthy Deep Learning (Special Topics in Deep Learning) at Berkeley University of California](https://berkeley-deep-learning.github.io/cs294-131-s19/). Spring 2019; Instructors: Trevor Darrell, Dawn Song, Jacob Steinhardt 
 
 ## Publications
 You can find a collection of scientific publications listed [here](publications.md). Also, latest publications can be downloaded from arxiv.org by executing the R script provided in [xai-iml-sota.R](xai-iml-sota.R) file.
@@ -63,17 +65,62 @@ You can find a collection of scientific publications listed [here](publications.
 
 
 ## Tools
-* [LIME](https://github.com/marcotcr/lime); Explaining the predictions of any machine learning classifier. 
-
-* [DrWhy](https://github.com/ModelOriented/DrWhy); DrWhy is the collection of tools for eXplainable AI (XAI).
+* [ModelOriented](https://github.com/ModelOriented); A collection of tools and packages.
 
 * [DLIME](https://github.com/rehmanzafar/dlime_experiments); This work proposed a deterministic version of Local Interpretable Model Agnostic Explanations (LIME) and the experimental results on three different medical datasets shows the superiority for Deterministic Local Interpretable Model-Agnostic Explanations (DLIME). 
 
+* [LIME](https://github.com/marcotcr/lime); Explaining the predictions of any machine learning classifier. 
+
+* [Anchor](https://github.com/marcotcr/anchor); An anchor explanation is a rule that sufficiently “anchors” the prediction locally – such that changes to the rest of the feature values of the instance do not matter. In other words, for instances on which the anchor holds, the prediction is (almost) always the same.
+
 * [shap](https://github.com/slundberg/shap); A game theoretic approach to explain the output of any machine learning model. 
+
+* [DrWhy](https://github.com/ModelOriented/DrWhy); DrWhy is the collection of tools for eXplainable AI (XAI).
+
+* [TreeInterpreter](https://github.com/andosa/treeinterpreter); Package for interpreting scikit-learn's decision tree and random forest predictions.
+Allows decomposing each prediction into bias and feature contribution components as described in http://blog.datadive.net/interpreting-random-forests/. For a dataset with ``n`` features, each prediction on the dataset is decomposed  as ``prediction = bias + feature_1_contribution + ... + feature_n_contribution``.
+
+* [iml](https://github.com/christophM/iml); `iml` is an R package that interprets the behavior and explains predictions of machine learning models. It implements model-agnostic interpretability methods - meaning they can be used with any machine learning model.
+
+* [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer); An R package that makes lightgbm models fully interpretable.
+
+* [XAI](https://github.com/EthicalML/xai); XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models.
+
+* [Break Down](https://github.com/pbiecek/breakDown); The breakDown package is a model agnostic tool for decomposition of predictions from black boxes. Break Down Table shows contributions of every variable to a final prediction. Break Down Plot presents variable contributions in a concise graphical way. This package works for binary classifiers and general regression models.
+
+* [iBreakDown](https://github.com/ModelOriented/iBreakDown); The iBreakDown package is a model agnostic tool for explanation of predictions from black boxes ML models. Break Down Table shows contributions of every variable to a final prediction. Break Down Plot presents variable contributions in a concise graphical way. 
+
+* [pyBreakDown](https://github.com/MI2DataLab/pyBreakDown); Python implementation of breakDown package.
+
+* [Alibi](https://github.com/SeldonIO/alibi); Alibi is an open source Python library aimed at machine learning model inspection and interpretation. The initial focus on the library is on black-box, instance based model explanations.
+
+* [Eli5](https://github.com/TeamHG-Memex/eli5); A library for debugging/inspecting machine learning classifiers and explaining their predictions.
+
+* [live](https://github.com/ModelOriented/live); Local Interpretable (Model-Agnostic) Visual Explanations. Interpretability of complex machine learning models is a growing concern. This package helps to understand key factors that drive the decision made by complicated predictive model (so called black box model). This is achieved through local approximations that are either based on additive regression like model or CART like model that allows for higher interactions.
+
+* [vivo](https://github.com/ModelOriented/vivo); This package helps to calculate instance level variable importance (local sensitivity). The importance measure is based on Ceteris Paribus profiles and can be calculated in eight variants. 
+
+* [modelStudio](https://github.com/ModelOriented/modelStudio); The modelStudio package automates the Explanatory Analysis of Machine Learning predictive models. Generate advanced interactive and animated model explanations in the form of a serverless HTML site with only one line of code. This tool is model agnostic, therefore compatible with most of the black box predictive models and frameworks.
+
+* [captum)](https://github.com/pytorch/captum); Captum is a model interpretability and understanding library for PyTorch. Captum means comprehension in latin and contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as torchvision, torchtext, and others.
+
+* [casme](https://github.com/kondiz/casme); This repository contains the code originally forked from the ImageNet training in PyTorch that is modified to present the performance of classifier-agnostic saliency map extraction, a practical algorithm to train a classifier-agnostic saliency mapping by simultaneously training a classifier and a saliency mapping.
+
+* [MindsDB](https://github.com/mindsdb/mindsdb); MindsDB is an Explainable AutoML framework for developers built on top of Pytorch. It enables you to build, train and test state of the art ML models in as simple as one line of code.
+
+* [AI Explainability 360](https://github.com/IBM/AIX360/); The IBM AI Explainability 360 toolkit is an open-source library that supports interpretability and explainability of datasets and machine learning models. The AI Explainability 360 Python package includes a comprehensive set of algorithms that cover different dimensions of explanations along with proxy explainability metrics.
+
+* [AI Fairness 360](https://github.com/IBM/AIF360); The AI Fairness 360 toolkit is an extensible open-source library containg techniques developed by the research community to help detect and mitigate bias in machine learning models throughout the AI application lifecycle. 
+
+* [pdp](https://bgreenwell.github.io/pdp/index.html); pdp is an R package for constructing partial dependence plots (PDPs) and individual conditional expectation (ICE) curves. PDPs and ICE curves are part of a larger framework referred to as interpretable machine learning (IML), which also includes (but not limited to) variable importance plots (VIPs).
+
+* [DICE](https://github.com/interpretml/DiCE); Generate Diverse Counterfactual Explanations for any machine learning model. 
+
+* [dowhy](https://github.com/microsoft/dowhy); DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
 
 * [Aequitas: A Bias and Fairness Audit Toolkit](https://arxiv.org/abs/1811.05577v2); Recent work has raised concerns on the risk of unintended bias in AI systems being used nowadays that can affect individuals unfairly based on race, gender or religion, among other possible characteristics. While a lot of bias metrics and fairness definitions have been proposed in recent years, there is no consensus on which metric/definition should be used and there are very few available resources to operationalize them.  Aequitas facilitates informed and equitable decisions around developing and deploying algorithmic decision making systems for both data scientists, machine learning researchers and policymakers. 
 
-* [InterpretML by Microsoft](https://github.com/microsoft/interpret); Python library by Microsoft related to explainability of ML models
+* [InterpretML by Microsoft](https://github.com/microsoft/interpret); Python library by Microsoft related to explainability of ML models.
 
 * [Assessing Causality from Observational Data using Pearl's Structural Causal Models](https://blog.methodsconsultants.com/posts/pearl-causality/); 
 
@@ -111,9 +158,13 @@ You can find a collection of scientific publications listed [here](publications.
 
 * [ggeffects](https://strengejacke.wordpress.com/2017/05/24/ggeffects-create-tidy-data-frames-of-marginal-effects-for-ggplot-from-model-outputs-rstats/); Create Tidy Data Frames of Marginal Effects for ‚ggplot‘ from Model Outputs, The aim of the ggeffects-package is similar to the broom-package: transforming “untidy” input into a tidy data frame, especially for further use with ggplot. However, ggeffects does not return model-summaries; rather, this package computes marginal effects at the mean or average marginal effects from statistical models and returns the result as tidy data frame (as tibbles, to be more precisely).
 
+* [LOFO](https://github.com/aerdem4/lofo-importance); LOFO (Leave One Feature Out) Importance calculates the importances of a set of features based on a metric of choice, for a model of choice, by iteratively removing each feature from the set, and evaluating the performance of the model, with a validation scheme of choice, based on the chosen metric.
+
 ## Toolkits
 ### Model debugging and refinement through visualisation toolkits
-The process of identifying, addressing defects or issues within a deep learning model that fails to converge or does not achieve an acceptable performance, interactively incorporate expert knowledge and expertise into the improvement and refinement process of a deep learning model, through a set of rich user interactions, in addition to semi-supervised learning or active learning  
+The process of identifying, addressing defects or issues within a deep learning model that fails to converge or does not achieve an acceptable performance, interactively incorporate expert knowledge and expertise into the improvement and refinement process of a deep learning model, through a set of rich user interactions, in addition to semi-supervised learning or active learning.
+
+- [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis); keras-vis is a high-level toolkit for visualizing and debugging your trained keras neural net models. 
 
 - [TensorBoard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard) visualizes the structure of a given computational graph that a user creates and provides basic line graphs and histograms of user-selected statistics.
 
@@ -135,16 +186,31 @@ models.
 - [GANViz](http://web.cse.ohio-state.edu/~wang.7665/image/research/pvis18.pdf) aims
 to help experts understand the adversarial process of GANs in-depth. Specifically, GANViz evaluates the model performance of two subnet works of GANs, provides evidence and interpretations of the models’ performance, and empowers comparative analysis with the evidence
 
-- [EnsembleVis](https://junpengw.bitbucket.io/ensemblevis/index.html) 
+- [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox); This is the code required to run the Deep Visualization Toolbox, as well as to generate the neuron-by-neuron visualizations using regularized optimization.
+The toolbox and methods are described casually [here](http://yosinski.com/deepvis)
 
-- [DNN Genealogy](http://dnn.hkustvis.org/) [[github]](https://github.com/wangqianwen0418/DNN-Genealogy)
+- [EnsembleVis](https://junpengw.bitbucket.io/ensemblevis/index.html); Visualization and Visual Analysis of Ensemble Data: A Survey
 
-- [ReVACNN](https://www.bckwon.com/publication/revacnn/)
+- [DNN Genealogy](http://dnn.hkustvis.org/) [[github]](https://github.com/wangqianwen0418/DNN-Genealogy); DNN Genealogy is an interactive visualization tool that offers a visual summary of representative DNNs and their evolutionary relationships.
 
-- [Summit](https://fredhohman.com/summit/) [[github]](https://github.com/fredhohman/summit)
+- [ReVACNN](https://www.bckwon.com/publication/revacnn/); ReVACNN: Real-Time Visual Analytics for Convolutional Neural Network.
+
+- [Summit](https://fredhohman.com/summit/) [[github]](https://github.com/fredhohman/summit); Summit is an interactive system that scalably and systematically summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
+
+- [CleverHans](https://github.com/tensorflow/cleverhans); This repository contains the source code for CleverHans, a Python library to benchmark machine learning systems' vulnerability to [adversarial examples](http://karpathy.github.io/2015/03/30/breaking-convnets/). You can learn more about such vulnerabilities on the accompanying [blog](http://cleverhans.io).
+
+- [Tensorboard whatif](https://pair-code.github.io/what-if-tool/); Building effective machine learning models means asking a lot of questions. Look for answers using the What-if Tool, an interactive visual interface designed to probe your models better. Compatible with TensorBoard, Jupyter and Colaboratory notebooks. Works on Tensorflow and Python-accessible models. 
+
+- [Tensorflow Lucid](https://github.com/tensorflow/lucid); A collection of infrastructure and tools for research in neural network interpretability.
+
+- [TensorFlow Model Analysis (TFMA)](https://github.com/tensorflow/model-analysis); TensorFlow Model Analysis (TFMA) is a library for evaluating TensorFlow models. It allows users to evaluate their models on large amounts of data in a distributed manner, using the same metrics defined in their trainer. These metrics can be computed over different slices of data and visualized in Jupyter notebooks.
+
+- [TF-Explain](https://github.com/sicara/tf-explain); Interpretability Methods for tf.keras models with Tensorflow 2.0. 
 
 ## Demos
 * [Explainable AI Demos](https://lrpserver.hhi.fraunhofer.de/); Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many cases, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artifacts. This demo shows how decisions made by systems based on artificial intelligence can be explained by LRP.
+
+* [DeepExplain](https://github.com/marcoancona/DeepExplain); A unified framework of perturbation and gradient-based attribution methods for Deep Neural Networks interpretability. DeepExplain also includes support for Shapley Values sampling.
 
 ## Online
 
@@ -262,6 +328,17 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * Open the Black Box: an Introduction to Model Interpretability with LIME and SHAP - Kevin Lemagnen [Watch on Youtube](https://www.youtube.com/watch?v=C80SQe16Rao)
 * Paper Review Calls 013 -- Bianca Furtuna -- Anchors: High-Precision Model-Agnostic Explanations [Watch on Youtube](https://www.youtube.com/watch?v=usBte1dj99Q)
 * Reliable Interpretability - Explaining AI Model Predictions | Sara Hooker @PyBay2018 [Watch on Youtube](https://www.youtube.com/watch?v=cHKp05g819A)
+* Alejandro Saucedo - Guide towards algorithm explainability in machine learning @ PyData London 2019 [Watch on Youtube](https://www.youtube.com/watch?v=vq8mDiDODhc)
+* Alejandro Saucedo - ML explainability, bias evaluation and reproducibility. [Watch on Youtube](https://www.youtube.com/watch?v=geTTNLlF-dE)
+* Alejandro Saucedo - Algorithmic bias and explainability in machine learning with tensorflow. [Watch on Youtube](https://www.youtube.com/watch?v=VkNO9iR8E1s)
+* Ajay Thampi - Interpretable AI or How I Learned to Stop Worrying and Trust AI @ PyData London 2019 [Watch on Youtube](https://www.youtube.com/watch?v=RqH4KkXPlpk)
+* Alejandro Saucedo, A practical guide towards explainability and bias evaluation in ML @ PyConBy 2019 [Watch on Youtube](https://www.youtube.com/watch?v=rq95qznOZKw)
+* Alexander Engelhardt - Interpretable Machine Learning: How to make black box @ PyData Berlin 2019 [Watch on Youtube](https://www.youtube.com/watch?v=sAqSGY-HkVY)
+* Alex Hanna - Responsible AI Practices: Fairness in ML @ PyData Miami 2019 [Watch on Youtube](https://www.youtube.com/watch?v=-YXOVspBWpo)
+* Yanjun Qi - Making Deep Learning Interpretable for Analyzing Sequential Data about Gene Regulation [Watch on Youtube](https://www.youtube.com/watch?v=vz1bZICCNtU)
+* Illija Ilievski - Interpretable forecasting of financial time series with deep learning [Watch on Youtube](https://www.youtube.com/watch?v=gX8gyri8E28)
+* IUI2019 keynote : DARPA’s Explainable Artificial Intelligence (XAI) Program [Watch on Youtube](https://www.youtube.com/watch?v=nX-4ClxWXYg)
+* Artificial Intelligence Colloquium: Explainable AI [Watch on Youtube](https://www.youtube.com/watch?v=YSsYXAn_L00)
 
 ## Audios
 
@@ -300,3 +377,4 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [Explainable AI: Expanding the frontiers of artificial intelligence](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence/explainable-ai-expanding-the-frontiers-of-artificial-intelligence)
 * XAI Resources [Link](https://github.com/pbiecek/xai_resources)
 * Awesome Machine Learning Interpretability [Link](https://github.com/jphall663/awesome-machine-learning-interpretability)
+* Awesome production machine learning [Link](https://github.com/EthicalML/awesome-production-machine-learning)
