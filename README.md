@@ -38,7 +38,7 @@
 * Patrick Hall [Google Scholars](https://scholar.google.com/citations?user=cxvaldkAAAAJ&hl=en), [Github](https://github.com/jphall663)
 
 ## Lectures
-* [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/); Instructor: Hima Lakkaraju
+* [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/). Fall 2019; Instructor: Hima Lakkaraju
 
 * [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020) at Warsaw University of Technology and University of Warsaw. Summer semester 2019/2020; Instructor: Przemysław Biecek
 
