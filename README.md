@@ -174,7 +174,8 @@ The process of identifying, addressing defects or issues within a deep learning 
 
 - [DIGITS](https://developer.nvidia.com/digits) simplifies common deep learning tasks such as managing data, designing and training neural networks on multi-GPU systems, monitoring performance in real time with advanced visualizations, and selecting the best performing model from the results browser for deployment. 
 
-- [CNNVis](http://shixialiu.com/publications/cnnvis/demo/)
+- [CNNVis](http://shixialiu.com/publications/cnnvis/demo/); Towards Better Analysis of Deep Convolutional Neural Networks.
+By Visual Analytics Group of Tsinghua University.
 
 - [ActiVis](https://arxiv.org/abs/1704.01942) provides a visual exploratory analysis of a given deep learning model via multiple coordinated views, such as a matrix view and an embedding view. [[slideshare]](https://www.slideshare.net/minsuk1015/activis-visual-exploration-of-industryscale-deep-neural-network-models) [[demo]](https://minsuk.com/research/activis/)
 
