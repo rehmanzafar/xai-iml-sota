@@ -330,6 +330,7 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [Learning Interpretable Models](http://www.stefan-rueping.de/publications/rueping_2006b.pdf); Stefan R ̈uping;  
 
 ## Videos
+* Ali El Sharif - A Literature Review on Interpretability for Machine Learning | AISC [Watch on Youtube](https://www.youtube.com/watch?v=E7Ssoa4jYqY)
 * Explainable AI in Industry Tutorial [Watch on Youtube](https://www.youtube.com/playlist?list=PLewjn-vrZ7d3x0M4Uu_57oaJPRXkiS221)
 * "Why Should I Trust you?" Explaining the Predictions of Any Classifier [Watch on Youtube](https://www.youtube.com/watch?v=KP7-JtFMLo4)
 * Interpretability - now what? - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=5w_rgBbwQHw)
