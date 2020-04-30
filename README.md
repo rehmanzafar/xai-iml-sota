@@ -214,6 +214,20 @@ The toolbox and methods are described casually [here](http://yosinski.com/deepvi
 * [DeepExplain](https://github.com/marcoancona/DeepExplain); A unified framework of perturbation and gradient-based attribution methods for Deep Neural Networks interpretability. DeepExplain also includes support for Shapley Values sampling.
 
 ## Online
+###2020
+* [The three stages of Explainable AI: How explainability facilitates real world deployment of AI](https://www.cloderic.com/articles/2020-04-22-the-three-stages-of-explainable-ai/); Clodéric Mars; The explainability of AI has become a major concern for AI builders and users, especially in the enterprise world. As AIs have more and more impact on the daily operations of businesses, trust, acceptance, accountability and certifiability become requirements for any deployment at a large scale.
+
+* [In Automation We Trust: How to Build an Explainable AI Model](https://www.datanami.com/2020/04/17/in-automation-we-trust-how-to-build-an-explainable-ai-model/); Jean-Michel Franco; As AI becomes more advanced and complex, the algorithms and logic powering it become less transparent. This lack of clarity can be unnerving for some people. Recent high-profile AI failures illustrate this. 
+
+* [Well, AI, How do You Explain That?!](https://readwrite.com/2020/04/17/well-ai-how-do-you-explain-that/); Alon Tvina; AI explainability is one of the most significant barriers to its adoption — but revealing the logic can take the human-machine relationship to the next level. The AI boom is upon us, but a closer look at specific use cases reveals a big barrier to adoption. In every vertical, businesses are struggling to make the most of AI’s promise. The biggest pain point? AI explainability.
+
+* [What Explainable AI fails to explain (and how we fix that)](https://towardsdatascience.com/what-explainable-ai-fails-to-explain-and-how-we-fix-that-1e35e37bee07); Alvin Wan; Neural networks are accurate but un-interpretable. Decision Trees are interpretable but inaccurate in computer vision. We have a solution.
+
+* [Explainable AI or XAI: the key to overcoming the accountability challenge](https://www.information-age.com/explainable-ai-xai-key-overcoming-accountability-challenge-123488977/); Hani Hagras; AI has become a key part of our day-to-day lives and business operations. A report from Microsoft and EY that analysed the outlook for AI in 2019 and beyond, stated that “65% of organisations in Europe expect AI to have a high or a very high impact on the core business.”
+
+* [Explainable AI: The key to Responsibly Adopting AI in Medicine](https://insidebigdata.com/2020/04/16/explainable-ai-the-key-to-responsibly-adopting-ai-in-medicine/); Niv Mizrahi; In this special guest feature, Niv Mizrahi, CTO & Co-Founder of Emedgene, discusses a field of technology that constantly is rising in importance – explainable (or interpretable) AI, and specifically how it has become a key responsibility for adopting AI in medicine. Emedgene is a genomics company using AI to automatically interpret genetic data so that health organizations can scale personalized care to wider populations. An expert in machine learning and big data, Niv has led Emedgene’s development from idea to a mature solution used by leading genomics labs. 
+
+* [Explainable Monitoring: Stop flying blind and monitor your AI](https://medium.com/fiddlerlabs/explainable-monitoring-stop-flying-blind-and-monitor-your-ai-4e27898f1b9); Krishna Gade; Data Science teams find Explainable Monitoring essential to manage their AI.
 
 ### 2019
 
@@ -298,13 +312,25 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 ### 2018 
 
-* [Shedding Light on Black Box Machine Learning Algorithms, Development of an Axiomatic Framework to Assess the Quality of Methods that Explain Individual Predictions](https://arxiv.org/pdf/1808.05054.pdf) Milo Honegger; 
+* [Interpretable Machine Learning with Applications in Neuroscience](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-50.pdf); Reza Abbasi Asl; 
+* [Shedding Light on Black Box Machine Learning Algorithms, Development of an Axiomatic Framework to Assess the Quality of Methods that Explain Individual Predictions](https://arxiv.org/pdf/1808.05054.pdf); Milo Honegger;
+* [Contrastive Explanation for Machine Learning](https://dspace.library.uu.nl/bitstream/handle/1874/368081/MJRobeer_Thesis-Public.pdf?sequence=1&isAllowed=y); Marcel Jurriaan Robeer; 
+
+### 2017
+* [Algorithms for interpretable machine learning](https://webthesis.biblio.polito.it/6437/1/tesi.pdf); Eliana Pastor;
 
 ### 2016
 
 * [Uncertainty and Label Noise in Machine Learning](https://dial.uclouvain.be/pr/boreal/object/boreal:134618/datastream/PDF_01/view); Benoit Frenay; This thesis addresses three challenge of machine learning: high-dimensional data, label noise and limited computational resources.
 
+### 2015 
+* [Interactive and Interpretable Machine Learning Models for Human Machine Collaboration](https://beenkim.github.io/papers/BKimPhDThesis.pdf); Been Kim;
+
+### 2006
+* [Learning Interpretable Models](http://www.stefan-rueping.de/publications/rueping_2006b.pdf); Stefan R ̈uping;  
+
 ## Videos
+* Explainable AI in Industry Tutorial [Watch on Youtube](https://www.youtube.com/playlist?list=PLewjn-vrZ7d3x0M4Uu_57oaJPRXkiS221)
 * "Why Should I Trust you?" Explaining the Predictions of Any Classifier [Watch on Youtube](https://www.youtube.com/watch?v=KP7-JtFMLo4)
 * Interpretability - now what? - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=5w_rgBbwQHw)
 * How to Fail Interpretability Research - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=jXkhcoZ9W24)
