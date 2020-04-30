@@ -102,7 +102,7 @@ Allows decomposing each prediction into bias and feature contribution components
 
 * [modelStudio](https://github.com/ModelOriented/modelStudio); The modelStudio package automates the Explanatory Analysis of Machine Learning predictive models. Generate advanced interactive and animated model explanations in the form of a serverless HTML site with only one line of code. This tool is model agnostic, therefore compatible with most of the black box predictive models and frameworks.
 
-* [captum)](https://github.com/pytorch/captum); Captum is a model interpretability and understanding library for PyTorch. Captum means comprehension in latin and contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as torchvision, torchtext, and others.
+* [captum](https://github.com/pytorch/captum); Captum is a model interpretability and understanding library for PyTorch. Captum means comprehension in latin and contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as torchvision, torchtext, and others.
 
 * [casme](https://github.com/kondiz/casme); This repository contains the code originally forked from the ImageNet training in PyTorch that is modified to present the performance of classifier-agnostic saliency map extraction, a practical algorithm to train a classifier-agnostic saliency mapping by simultaneously training a classifier and a saliency mapping.
 
@@ -200,7 +200,7 @@ The toolbox and methods are described casually [here](http://yosinski.com/deepvi
 
 - [CleverHans](https://github.com/tensorflow/cleverhans); This repository contains the source code for CleverHans, a Python library to benchmark machine learning systems' vulnerability to [adversarial examples](http://karpathy.github.io/2015/03/30/breaking-convnets/). You can learn more about such vulnerabilities on the accompanying [blog](http://cleverhans.io).
 
-- [Tensorboard whatif](https://pair-code.github.io/what-if-tool/); Building effective machine learning models means asking a lot of questions. Look for answers using the What-if Tool, an interactive visual interface designed to probe your models better. Compatible with TensorBoard, Jupyter and Colaboratory notebooks. Works on Tensorflow and Python-accessible models. 
+- [Tensorboard what-if](https://pair-code.github.io/what-if-tool/); Building effective machine learning models means asking a lot of questions. Look for answers using the What-if Tool, an interactive visual interface designed to probe your models better. Compatible with TensorBoard, Jupyter and Colaboratory notebooks. Works on Tensorflow and Python-accessible models. 
 
 - [Tensorflow Lucid](https://github.com/tensorflow/lucid); A collection of infrastructure and tools for research in neural network interpretability.
 
@@ -214,7 +214,7 @@ The toolbox and methods are described casually [here](http://yosinski.com/deepvi
 * [DeepExplain](https://github.com/marcoancona/DeepExplain); A unified framework of perturbation and gradient-based attribution methods for Deep Neural Networks interpretability. DeepExplain also includes support for Shapley Values sampling.
 
 ## Online
-###2020
+### 2020
 * [The three stages of Explainable AI: How explainability facilitates real world deployment of AI](https://www.cloderic.com/articles/2020-04-22-the-three-stages-of-explainable-ai/); Clodéric Mars; The explainability of AI has become a major concern for AI builders and users, especially in the enterprise world. As AIs have more and more impact on the daily operations of businesses, trust, acceptance, accountability and certifiability become requirements for any deployment at a large scale.
 
 * [In Automation We Trust: How to Build an Explainable AI Model](https://www.datanami.com/2020/04/17/in-automation-we-trust-how-to-build-an-explainable-ai-model/); Jean-Michel Franco; As AI becomes more advanced and complex, the algorithms and logic powering it become less transparent. This lack of clarity can be unnerving for some people. Recent high-profile AI failures illustrate this. 
