@@ -85,7 +85,7 @@ prediction for a given observation.
 
 * [iml](https://github.com/christophM/iml); `iml` is an R package that interprets the behavior and explains predictions of machine learning models. It implements model-agnostic interpretability methods - meaning they can be used with any machine learning model.
 
-* [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer); An R package that makes lightgbm models fully interpretable.
+* [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer); An R package that makes lightgbm model fully interpretable.
 
 * [XAI](https://github.com/EthicalML/xai); XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models.
 
