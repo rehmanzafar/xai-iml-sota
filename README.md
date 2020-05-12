@@ -80,6 +80,9 @@ You can find a collection of scientific publications listed [here](publications.
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter); Package for interpreting scikit-learn's decision tree and random forest predictions.
 Allows decomposing each prediction into bias and feature contribution components as described in http://blog.datadive.net/interpreting-random-forests/. For a dataset with ``n`` features, each prediction on the dataset is decomposed  as ``prediction = bias + feature_1_contribution + ... + feature_n_contribution``.
 
+* [triplot](https://github.com/ModelOriented/triplot); The `triplot` package provides an instance-level explainer for the groups of explanatory variables called aspect importance. Package enables grouping predictors into entities called aspects. Afterwards, it calculates the contribution of those aspects to the
+prediction for a given observation.
+
 * [iml](https://github.com/christophM/iml); `iml` is an R package that interprets the behavior and explains predictions of machine learning models. It implements model-agnostic interpretability methods - meaning they can be used with any machine learning model.
 
 * [lightgbmExplainer](https://github.com/lantanacamara/lightgbmExplainer); An R package that makes lightgbm models fully interpretable.
