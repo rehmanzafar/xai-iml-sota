@@ -337,6 +337,7 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 ## Videos
 * Muhammad Rehman Zafar - A Deterministic Local Interpretable Model-Agnostic Explanations Approach for Computer-Aided Diagnosis | AISC [Watch on Youtube](https://www.youtube.com/watch?v=G2rKtLNxlxQ)
 * Ali El Sharif - A Literature Review on Interpretability for Machine Learning | AISC [Watch on Youtube](https://www.youtube.com/watch?v=E7Ssoa4jYqY)
+* LEAP - Improving the quality of explanations with local embedding perturbations [Watch on Youtube](https://www.youtube.com/watch?v=eIohN0QIxrg)
 * Explainable AI in Industry Tutorial [Watch on Youtube](https://www.youtube.com/playlist?list=PLewjn-vrZ7d3x0M4Uu_57oaJPRXkiS221)
 * "Why Should I Trust you?" Explaining the Predictions of Any Classifier [Watch on Youtube](https://www.youtube.com/watch?v=KP7-JtFMLo4)
 * Interpretability - now what? - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=5w_rgBbwQHw)
