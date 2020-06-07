@@ -218,6 +218,8 @@ The toolbox and methods are described casually [here](http://yosinski.com/deepvi
 
 ## Online
 ### 2020
+* [Three Model Explanability Methods Every Data Scientist Should Know](https://towardsdatascience.com/three-model-explanability-methods-every-data-scientist-should-know-c332bdfd8df) Moto DEI; Thanks to many researchers’s contributions, though, there are some useful tools to give explanability to the machine learning models. With those tools, we can know and understand (at least feel like we understand) that “which variable affect the prediction how much”?
+
 * [The three stages of Explainable AI: How explainability facilitates real world deployment of AI](https://www.cloderic.com/articles/2020-04-22-the-three-stages-of-explainable-ai/); Clodéric Mars; The explainability of AI has become a major concern for AI builders and users, especially in the enterprise world. As AIs have more and more impact on the daily operations of businesses, trust, acceptance, accountability and certifiability become requirements for any deployment at a large scale.
 
 * [In Automation We Trust: How to Build an Explainable AI Model](https://www.datanami.com/2020/04/17/in-automation-we-trust-how-to-build-an-explainable-ai-model/); Jean-Michel Franco; As AI becomes more advanced and complex, the algorithms and logic powering it become less transparent. This lack of clarity can be unnerving for some people. Recent high-profile AI failures illustrate this. 
