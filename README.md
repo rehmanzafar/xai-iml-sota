@@ -80,6 +80,8 @@ You can find a collection of scientific publications listed [here](publications.
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter); Package for interpreting scikit-learn's decision tree and random forest predictions.
 Allows decomposing each prediction into bias and feature contribution components as described in http://blog.datadive.net/interpreting-random-forests/. For a dataset with ``n`` features, each prediction on the dataset is decomposed  as ``prediction = bias + feature_1_contribution + ... + feature_n_contribution``.
 
+* [bLIMEy](https://fat-forensics.org/how_to/transparency/tabular-surrogates.html); ). The Local Interpretable Model-agnostic Explana-tions (LIME) algorithm is often mistakenly unified with a more general frameworkof surrogate explainers, which may lead to a belief that it is the solution to surrogateexplainability. In this paper we empower the community to “build LIME yourself”(bLIMEy) by proposing a principled algorithmic framework for building customlocal surrogate explainers of black-box model predictions, including LIME itself.
+
 * [triplot](https://github.com/ModelOriented/triplot); The `triplot` package provides an instance-level explainer for the groups of explanatory variables called aspect importance. Package enables grouping predictors into entities called aspects. Afterwards, it calculates the contribution of those aspects to the
 prediction for a given observation.
 
@@ -314,6 +316,9 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * [How We Analyzed the COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm); ProPublica investigation. Black defendants were often predicted to be at a higher risk of recidivism than they actually were. Our analysis found that black defendants who did not recidivate over a two-year period were nearly twice as likely to be misclassified as higher risk compared to their white counterparts (45 percent vs. 23 percent). The analysis also showed that even when controlling for prior crimes, future recidivism, age, and gender, black defendants were 45 percent more likely to be assigned higher risk scores than white defendants.
 
 ## Thesis
+
+### 2020
+* [Pattern Aided Explainable MachineLearning](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/238743/fba8a8cd-33ad-e911-94a5-0050568d0279_Thesis_Revised.pdf?sequence=1&isAllowed=y); Yunzhe Jia
 
 ### 2018 
 
