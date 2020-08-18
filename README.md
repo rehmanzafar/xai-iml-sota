@@ -63,6 +63,56 @@ You can find a collection of scientific publications listed [here](publications.
 
 * [Limitations of Interpretable Machine Learning Methods](https://compstat-lmu.github.io/iml_methods_limitations/); This book explains limitations of current methods in interpretable machine learning. The methods include partial dependence plots (PDP), Accumulated Local Effects (ALE), permutation feature importance, leave-one-covariate out (LOCO) and local interpretable model-agnostic explanations (LIME).
 
+## Videos
+* Muhammad Rehman Zafar - A Deterministic Local Interpretable Model-Agnostic Explanations Approach for Computer-Aided Diagnosis | AISC [Watch on Youtube](https://www.youtube.com/watch?v=G2rKtLNxlxQ)
+* Cynthia Rudin - Please Stop Doing "Explainable" ML [Watch on Youtube](https://www.youtube.com/watch?v=I0yrJz8uc5Q)
+* Ali El Sharif - A Literature Review on Interpretability for Machine Learning | AISC [Watch on Youtube](https://www.youtube.com/watch?v=E7Ssoa4jYqY)
+* LEAP - Improving the quality of explanations with local embedding perturbations [Watch on Youtube](https://www.youtube.com/watch?v=eIohN0QIxrg)
+* Explainable AI in Industry Tutorial [Watch on Youtube](https://www.youtube.com/playlist?list=PLewjn-vrZ7d3x0M4Uu_57oaJPRXkiS221)
+* "Why Should I Trust you?" Explaining the Predictions of Any Classifier [Watch on Youtube](https://www.youtube.com/watch?v=KP7-JtFMLo4)
+* Interpretability - now what? - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=5w_rgBbwQHw)
+* How to Fail Interpretability Research - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=jXkhcoZ9W24)
+* Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist [Watch on Youtube](https://www.youtube.com/watch?v=CY3t11vuuOM)
+* Machine Learning Interpretability with Driverless AI [Watch on Youtube](https://www.youtube.com/watch?v=3_gm00kBwEw)
+* Interpretable Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=3uLegw5HhYk)
+* Practical Tips for Interpreting Machine Learning Models - Patrick Hall, H2O.ai [Watch on Youtube](https://www.youtube.com/watch?v=vUqC8UPw9SU)
+* Interpretable Machine Learning Meetup [Watch on Youtube](https://www.youtube.com/watch?v=RcUdUZf8_SU)
+* CVPR18: Tutorial: Part 1: Interpretable Machine Learning for Computer Vision [Watch on Youtube](https://www.youtube.com/watch?v=MgawSHnYQGw)
+* Cynthia Rudin - Interpretable ML for Recidivism Prediction - The Frontiers of Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=MjxcwKN2dXs)
+* Algorithms for interpretable machine learning (KDD 2014 Presentation) [Watch on Youtube](https://www.youtube.com/watch?v=rtW7rPUTyck)
+* Cynthia Rudin: New Algorithms for Interpretable Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=FsLP-kkvIIw)
+* Interpretable Machine Learning: Methods for understanding complex models [Watch on Youtube](https://www.youtube.com/watch?v=LOuTHBIKlFs)
+* Machine Learning and Interpretability [Watch on Youtube](https://www.youtube.com/watch?v=NxYCY8-Qfx0)
+* Interpretability Beyond Feature Attribution [Watch on Youtube](https://www.youtube.com/watch?v=Ff-Dx79QEEY)
+* Interpretable machine learning (part 3): Shapley values and packages for IML [Watch on Youtube](https://www.youtube.com/watch?v=OiJGxA64bJs)
+* Kilian Weinberger, "Interpretable Machine Learning" [Watch on Youtube](https://www.youtube.com/watch?v=w0KFH8aSfG4)
+* Emily Fox: "Interpretable Neural Network Models for Granger Causality Discovery" [Watch on Youtube](https://www.youtube.com/watch?v=as3RpspRb88)
+* Inherent Trade-offs with the Local Explanations Paradigm [Watch on Youtube](https://www.youtube.com/watch?v=GqfwehSIhzg)
+* Interpreting Deep Neural Networks (DNNs) [Watch on Youtube](https://www.youtube.com/watch?v=mCDv3kpzqwQ)
+* iml: A new Package for Model-Agnostic Interpretable Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=jP6Rg13PEkQ)
+* Open the Black Box: an Introduction to Model Interpretability with LIME and SHAP - Kevin Lemagnen [Watch on Youtube](https://www.youtube.com/watch?v=C80SQe16Rao)
+* Paper Review Calls 013 -- Bianca Furtuna -- Anchors: High-Precision Model-Agnostic Explanations [Watch on Youtube](https://www.youtube.com/watch?v=usBte1dj99Q)
+* Reliable Interpretability - Explaining AI Model Predictions | Sara Hooker @PyBay2018 [Watch on Youtube](https://www.youtube.com/watch?v=cHKp05g819A)
+* Alejandro Saucedo - Guide towards algorithm explainability in machine learning @ PyData London 2019 [Watch on Youtube](https://www.youtube.com/watch?v=vq8mDiDODhc)
+* Alejandro Saucedo - ML explainability, bias evaluation and reproducibility. [Watch on Youtube](https://www.youtube.com/watch?v=geTTNLlF-dE)
+* Alejandro Saucedo - Algorithmic bias and explainability in machine learning with tensorflow. [Watch on Youtube](https://www.youtube.com/watch?v=VkNO9iR8E1s)
+* Ajay Thampi - Interpretable AI or How I Learned to Stop Worrying and Trust AI @ PyData London 2019 [Watch on Youtube](https://www.youtube.com/watch?v=RqH4KkXPlpk)
+* Alejandro Saucedo, A practical guide towards explainability and bias evaluation in ML @ PyConBy 2019 [Watch on Youtube](https://www.youtube.com/watch?v=rq95qznOZKw)
+* Alexander Engelhardt - Interpretable Machine Learning: How to make black box @ PyData Berlin 2019 [Watch on Youtube](https://www.youtube.com/watch?v=sAqSGY-HkVY)
+* Alex Hanna - Responsible AI Practices: Fairness in ML @ PyData Miami 2019 [Watch on Youtube](https://www.youtube.com/watch?v=-YXOVspBWpo)
+* Yanjun Qi - Making Deep Learning Interpretable for Analyzing Sequential Data about Gene Regulation [Watch on Youtube](https://www.youtube.com/watch?v=vz1bZICCNtU)
+* Illija Ilievski - Interpretable forecasting of financial time series with deep learning [Watch on Youtube](https://www.youtube.com/watch?v=gX8gyri8E28)
+* IUI2019 keynote : DARPA’s Explainable Artificial Intelligence (XAI) Program [Watch on Youtube](https://www.youtube.com/watch?v=nX-4ClxWXYg)
+* Artificial Intelligence Colloquium: Explainable AI [Watch on Youtube](https://www.youtube.com/watch?v=YSsYXAn_L00)
+
+## Audios
+
+### 2018
+
+* [Explaining Explainable AI](https://www.brighttalk.com/webcast/16463/346891/explaining-explainable-ai); In this webinar, we will conduct a panel discussion with Patrick Hall and Tom Aliff around the business requirements of explainable AI and the subsequent value that can benefit any organization
+* [Approaches to Fairness in Machine Learning with Richard Zemel](https://twimlai.com/twiml-talk-209-approaches-to-fairness-in-machine-learning-with-richard-zemel/); Today we continue our exploration of Trust in AI with this interview with Richard Zemel, Professor in the department of Computer Science at the University of Toronto and Research Director at Vector Institute.
+
+* [Making Algorithms Trustworthy with David Spiegelhalter](https://twimlai.com/twiml-talk-212-making-algorithms-trustworthy-with-david-speigelhalter/); In this, the second episode of our NeurIPS series, we’re joined by David Spiegelhalter, Chair of Winton Center for Risk and Evidence Communication at Cambridge University and President of the Royal Statistical Society.
 
 ## Tools
 * [ModelOriented](https://github.com/ModelOriented); A collection of tools and packages.
@@ -338,57 +388,6 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 ### 2006
 * [Learning Interpretable Models](http://www.stefan-rueping.de/publications/rueping_2006b.pdf); Stefan R ̈uping;  
-
-## Videos
-* Muhammad Rehman Zafar - A Deterministic Local Interpretable Model-Agnostic Explanations Approach for Computer-Aided Diagnosis | AISC [Watch on Youtube](https://www.youtube.com/watch?v=G2rKtLNxlxQ)
-* Cynthia Rudin - Please Stop Doing "Explainable" ML [Watch on Youtube](https://www.youtube.com/watch?v=I0yrJz8uc5Q)
-* Ali El Sharif - A Literature Review on Interpretability for Machine Learning | AISC [Watch on Youtube](https://www.youtube.com/watch?v=E7Ssoa4jYqY)
-* LEAP - Improving the quality of explanations with local embedding perturbations [Watch on Youtube](https://www.youtube.com/watch?v=eIohN0QIxrg)
-* Explainable AI in Industry Tutorial [Watch on Youtube](https://www.youtube.com/playlist?list=PLewjn-vrZ7d3x0M4Uu_57oaJPRXkiS221)
-* "Why Should I Trust you?" Explaining the Predictions of Any Classifier [Watch on Youtube](https://www.youtube.com/watch?v=KP7-JtFMLo4)
-* Interpretability - now what? - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=5w_rgBbwQHw)
-* How to Fail Interpretability Research - Been Kim [Watch on Youtube](https://www.youtube.com/watch?v=jXkhcoZ9W24)
-* Interpretable Machine Learning Using LIME Framework - Kasia Kulma (PhD), Data Scientist [Watch on Youtube](https://www.youtube.com/watch?v=CY3t11vuuOM)
-* Machine Learning Interpretability with Driverless AI [Watch on Youtube](https://www.youtube.com/watch?v=3_gm00kBwEw)
-* Interpretable Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=3uLegw5HhYk)
-* Practical Tips for Interpreting Machine Learning Models - Patrick Hall, H2O.ai [Watch on Youtube](https://www.youtube.com/watch?v=vUqC8UPw9SU)
-* Interpretable Machine Learning Meetup [Watch on Youtube](https://www.youtube.com/watch?v=RcUdUZf8_SU)
-* CVPR18: Tutorial: Part 1: Interpretable Machine Learning for Computer Vision [Watch on Youtube](https://www.youtube.com/watch?v=MgawSHnYQGw)
-* Cynthia Rudin - Interpretable ML for Recidivism Prediction - The Frontiers of Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=MjxcwKN2dXs)
-* Algorithms for interpretable machine learning (KDD 2014 Presentation) [Watch on Youtube](https://www.youtube.com/watch?v=rtW7rPUTyck)
-* Cynthia Rudin: New Algorithms for Interpretable Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=FsLP-kkvIIw)
-* Interpretable Machine Learning: Methods for understanding complex models [Watch on Youtube](https://www.youtube.com/watch?v=LOuTHBIKlFs)
-* Machine Learning and Interpretability [Watch on Youtube](https://www.youtube.com/watch?v=NxYCY8-Qfx0)
-* Interpretability Beyond Feature Attribution [Watch on Youtube](https://www.youtube.com/watch?v=Ff-Dx79QEEY)
-* Interpretable machine learning (part 3): Shapley values and packages for IML [Watch on Youtube](https://www.youtube.com/watch?v=OiJGxA64bJs)
-* Kilian Weinberger, "Interpretable Machine Learning" [Watch on Youtube](https://www.youtube.com/watch?v=w0KFH8aSfG4)
-* Emily Fox: "Interpretable Neural Network Models for Granger Causality Discovery" [Watch on Youtube](https://www.youtube.com/watch?v=as3RpspRb88)
-* Inherent Trade-offs with the Local Explanations Paradigm [Watch on Youtube](https://www.youtube.com/watch?v=GqfwehSIhzg)
-* Interpreting Deep Neural Networks (DNNs) [Watch on Youtube](https://www.youtube.com/watch?v=mCDv3kpzqwQ)
-* iml: A new Package for Model-Agnostic Interpretable Machine Learning [Watch on Youtube](https://www.youtube.com/watch?v=jP6Rg13PEkQ)
-* Open the Black Box: an Introduction to Model Interpretability with LIME and SHAP - Kevin Lemagnen [Watch on Youtube](https://www.youtube.com/watch?v=C80SQe16Rao)
-* Paper Review Calls 013 -- Bianca Furtuna -- Anchors: High-Precision Model-Agnostic Explanations [Watch on Youtube](https://www.youtube.com/watch?v=usBte1dj99Q)
-* Reliable Interpretability - Explaining AI Model Predictions | Sara Hooker @PyBay2018 [Watch on Youtube](https://www.youtube.com/watch?v=cHKp05g819A)
-* Alejandro Saucedo - Guide towards algorithm explainability in machine learning @ PyData London 2019 [Watch on Youtube](https://www.youtube.com/watch?v=vq8mDiDODhc)
-* Alejandro Saucedo - ML explainability, bias evaluation and reproducibility. [Watch on Youtube](https://www.youtube.com/watch?v=geTTNLlF-dE)
-* Alejandro Saucedo - Algorithmic bias and explainability in machine learning with tensorflow. [Watch on Youtube](https://www.youtube.com/watch?v=VkNO9iR8E1s)
-* Ajay Thampi - Interpretable AI or How I Learned to Stop Worrying and Trust AI @ PyData London 2019 [Watch on Youtube](https://www.youtube.com/watch?v=RqH4KkXPlpk)
-* Alejandro Saucedo, A practical guide towards explainability and bias evaluation in ML @ PyConBy 2019 [Watch on Youtube](https://www.youtube.com/watch?v=rq95qznOZKw)
-* Alexander Engelhardt - Interpretable Machine Learning: How to make black box @ PyData Berlin 2019 [Watch on Youtube](https://www.youtube.com/watch?v=sAqSGY-HkVY)
-* Alex Hanna - Responsible AI Practices: Fairness in ML @ PyData Miami 2019 [Watch on Youtube](https://www.youtube.com/watch?v=-YXOVspBWpo)
-* Yanjun Qi - Making Deep Learning Interpretable for Analyzing Sequential Data about Gene Regulation [Watch on Youtube](https://www.youtube.com/watch?v=vz1bZICCNtU)
-* Illija Ilievski - Interpretable forecasting of financial time series with deep learning [Watch on Youtube](https://www.youtube.com/watch?v=gX8gyri8E28)
-* IUI2019 keynote : DARPA’s Explainable Artificial Intelligence (XAI) Program [Watch on Youtube](https://www.youtube.com/watch?v=nX-4ClxWXYg)
-* Artificial Intelligence Colloquium: Explainable AI [Watch on Youtube](https://www.youtube.com/watch?v=YSsYXAn_L00)
-
-## Audios
-
-### 2018
-
-* [Explaining Explainable AI](https://www.brighttalk.com/webcast/16463/346891/explaining-explainable-ai); In this webinar, we will conduct a panel discussion with Patrick Hall and Tom Aliff around the business requirements of explainable AI and the subsequent value that can benefit any organization
-* [Approaches to Fairness in Machine Learning with Richard Zemel](https://twimlai.com/twiml-talk-209-approaches-to-fairness-in-machine-learning-with-richard-zemel/); Today we continue our exploration of Trust in AI with this interview with Richard Zemel, Professor in the department of Computer Science at the University of Toronto and Research Director at Vector Institute.
-
-* [Making Algorithms Trustworthy with David Spiegelhalter](https://twimlai.com/twiml-talk-212-making-algorithms-trustworthy-with-david-speigelhalter/); In this, the second episode of our NeurIPS series, we’re joined by David Spiegelhalter, Chair of Winton Center for Risk and Evidence Communication at Cambridge University and President of the Royal Statistical Society.
 
 ## Conferences
 
