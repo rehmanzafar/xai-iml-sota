@@ -104,6 +104,7 @@ You can find a collection of scientific publications listed [here](publications.
 * Illija Ilievski - Interpretable forecasting of financial time series with deep learning [Watch on Youtube](https://www.youtube.com/watch?v=gX8gyri8E28)
 * IUI2019 keynote : DARPA’s Explainable Artificial Intelligence (XAI) Program [Watch on Youtube](https://www.youtube.com/watch?v=nX-4ClxWXYg)
 * Artificial Intelligence Colloquium: Explainable AI [Watch on Youtube](https://www.youtube.com/watch?v=YSsYXAn_L00)
+* Dr. Wojciech Samek - Explainable AI - Methods, Applications & Recent Developments | ODSC Europe 2019 [Watch on Youtube](https://www.youtube.com/watch?v=AFC8yWzypss)
 
 ## Audios
 
