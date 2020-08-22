@@ -369,7 +369,9 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 ## Thesis
 
 ### 2020
-* [Pattern Aided Explainable MachineLearning](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/238743/fba8a8cd-33ad-e911-94a5-0050568d0279_Thesis_Revised.pdf?sequence=1&isAllowed=y); Yunzhe Jia
+* [Human-Interpretable Explanations for Black-BoxMachine Learning Models:An Application to Fraud Detection](http://maebd.di.fct.unl.pt/ano_1920/Preparacao/Relatorios/semestre_1/prep_54682_Valdimir_Balayan.pdf); Vladimir Balayan
+
+* [Pattern Aided Explainable Machine Learning](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/238743/fba8a8cd-33ad-e911-94a5-0050568d0279_Thesis_Revised.pdf?sequence=1&isAllowed=y); Yunzhe Jia
 
 ### 2018 
 
