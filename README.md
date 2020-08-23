@@ -140,6 +140,10 @@ Deadline: November  15, 2020
 [Call for Paper](https://www.journals.elsevier.com/artificial-intelligence/call-for-papers/special-issue-on-explainable-artificial-intelligence)
 Deadline: May 01, 2020
 
+* Special Issue on Learning Complex Couplings and Interactions in IEEE Intelligent Systems
+[Call for Paper](https://www.computer.org/digital-library/magazines/ex/call-for-papers-special-issue-on-learning-complex-couplings-and-interactions)
+Deadline: May 30, 2020
+
 ### Conferences
 
 ### Workshops
