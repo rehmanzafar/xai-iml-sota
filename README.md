@@ -47,6 +47,7 @@
 You can find a collection of scientific publications listed [here](publications.md). Also, latest publications can be downloaded from arxiv.org by executing the R script provided in [xai-iml-sota.R](xai-iml-sota.R) file.
 
 ## Books
+*[Interpretable AI](https://www.manning.com/books/interpretable-ai); Ajay Thampi
 
 * [Human-in-the-Loop Machine Learning](https://www.manning.com/books/human-in-the-loop-machine-learning); Robert Munro; [Github](https://github.com/rmunro/pytorch_active_learning)
 
@@ -136,6 +137,14 @@ Deadline: December  01, 2020
 [Call for Paper](https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-algorithmic-bias-and-fairness-in-search)
 Deadline: November  15, 2020
 
+* Special Issue on Explainable AI and Machine Learning in IEEE Computer
+[Call for Paper](https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-explainable-ai-and-machine-learning)
+Deadline: October  30, 2020
+
+* Special Issue "Explainable Artificial Intelligence (XAI)" in Applied Sciences
+[Call for Paper](https://www.mdpi.com/journal/applsci/special_issues/Explainable_Artificial_Intelligence_XAI)
+Deadline: September  30, 2020
+
 * Special Issue on Explainable Artificial Intelligence in Artificial Intelligence 
 [Call for Paper](https://www.journals.elsevier.com/artificial-intelligence/call-for-papers/special-issue-on-explainable-artificial-intelligence)
 Deadline: May 01, 2020
@@ -148,12 +157,24 @@ Deadline: May 30, 2020
 
 ### Workshops
 #### 2020
+* 2nd Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence [Call for Paper](https://sites.google.com/view/nl4xai2020)
+Deadline:  September 20, 2020
+
+* 3rd Workshop on Advances In Argumentation In Artificial Intelligence (AI3 2019) [Call for Paper](http://ai3-2019.dmi.unipg.it/cfp.html) 
+Deadline:  August 30, 2020
+
+* International Workshop on Explainable and Interpretable Machine Learning (XI-ML) [Call for Paper](http://www.cslab.cc/xi-ml-2020/) 
+Deadline:  Jul 23, 2020
+
 * XXAI: Extending Explainable AI Beyond Deep Models and Classifiers [Call for Paper](http://interpretable-ml.org/icml2020workshop/); 
 [Videos](https://slideslive.com/icml-2020/xxai-extending-explainable-ai-beyond-deep-models-and-classifiers); [Link to Papers](http://interpretable-ml.org/icml2020workshop/#papers)
 Deadline:  June 19, 2020
 
 * eXplainable Knowledge Discovery in Data Mining [Call for Paper](https://kdd.isti.cnr.it/xkdd2020/) 
 Deadline:  June 19, 2020
+
+* 1st Workshop on Data Science with Human in the Loop (DaSH) [Call for Paper](https://sites.google.com/view/dash2020) 
+Deadline:  June 10, 2020
 
 * Explainable AI xAI 2020 [Call for Paper](https://human-centered.ai/explainable-ai-2020/)
 [Link to Papers](https://link.springer.com/book/10.1007/978-3-030-29726-8)
