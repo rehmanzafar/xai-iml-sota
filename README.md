@@ -148,8 +148,8 @@ Deadline: May 30, 2020
 
 ### Workshops
 #### 2020
-* XXAI: Extending Explainable AI Beyond Deep Models and Classifiers [Call for Paper](http://interpretable-ml.org/icml2020workshop/)
-[Videos](https://slideslive.com/icml-2020/xxai-extending-explainable-ai-beyond-deep-models-and-classifiers) [Link to Papers](http://interpretable-ml.org/icml2020workshop/#papers)
+* XXAI: Extending Explainable AI Beyond Deep Models and Classifiers [Call for Paper](http://interpretable-ml.org/icml2020workshop/); 
+[Videos](https://slideslive.com/icml-2020/xxai-extending-explainable-ai-beyond-deep-models-and-classifiers); [Link to Papers](http://interpretable-ml.org/icml2020workshop/#papers)
 Deadline:  June 19, 2020
 
 * eXplainable Knowledge Discovery in Data Mining [Call for Paper](https://kdd.isti.cnr.it/xkdd2020/) 
