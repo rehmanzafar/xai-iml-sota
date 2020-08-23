@@ -11,8 +11,7 @@
 * [Online articles](README.md#online)
 * [Audios](README.md#audios)
 * [Videos](README.md#videos)
-* [Conferences](README.md#conferences)
-* [Workshops](README.md#workshops)
+* [Publication Venues](README.md#venues)
 * [Others](README.md#other)
 
 ## Researchers
@@ -114,6 +113,65 @@ You can find a collection of scientific publications listed [here](publications.
 * [Approaches to Fairness in Machine Learning with Richard Zemel](https://twimlai.com/twiml-talk-209-approaches-to-fairness-in-machine-learning-with-richard-zemel/); Today we continue our exploration of Trust in AI with this interview with Richard Zemel, Professor in the department of Computer Science at the University of Toronto and Research Director at Vector Institute.
 
 * [Making Algorithms Trustworthy with David Spiegelhalter](https://twimlai.com/twiml-talk-212-making-algorithms-trustworthy-with-david-speigelhalter/); In this, the second episode of our NeurIPS series, we’re joined by David Spiegelhalter, Chair of Winton Center for Risk and Evidence Communication at Cambridge University and President of the Royal Statistical Society.
+
+## Publication Venues
+### Journals
+* Special Issue Springer/Nature BMC Medical Informatics and Decision Making 
+[Call for Paper](https://human-centered.ai/special-issue-explainable-ai-medical-informatics-decision-making/)
+Deadline: December  31, 2020
+
+* Special Issue on Advances in Explainable (XAI) and Responsible (RAI) Artificial Intelligence 
+[Call for Paper](https://www.journals.elsevier.com/information-fusion/call-for-papers/multi-sensor-multi-source-information-fusion)
+Deadline: December  15, 2020
+
+* Special issue call: "Explainable AI on Multimedia Computing" in ACM Transactions on Multimedia Computing, Communications, and Applications 
+[Call for Paper](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/CFP_EAIMC-1592293488050.pdf)
+Deadline: December  01, 2020
+
+* Special Issue on Algorithmic Bias and Fairness in Search and Recommendation in Information Processing & Management 
+[Call for Paper](https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-algorithmic-bias-and-fairness-in-search)
+Deadline: November  15, 2020
+
+* Special Issue on Explainable Artificial Intelligence in Artificial Intelligence 
+[Call for Paper](https://www.journals.elsevier.com/artificial-intelligence/call-for-papers/special-issue-on-explainable-artificial-intelligence)
+Deadline: May 01, 2020
+
+### Conferences
+
+### Workshops
+### 2020
+* XXAI: Extending Explainable AI Beyond Deep Models and Classifiers [Call for Paper](http://interpretable-ml.org/icml2020workshop/)
+[Videos](https://slideslive.com/icml-2020/xxai-extending-explainable-ai-beyond-deep-models-and-classifiers) [Link to Papers](http://interpretable-ml.org/icml2020workshop/#papers)
+Deadline:  June 19, 2020
+
+* eXplainable Knowledge Discovery in Data Mining [Call for Paper](https://kdd.isti.cnr.it/xkdd2020/)
+
+Deadline:  June 19, 2020
+
+* Explainable AI xAI 2020 [Call for Paper](https://human-centered.ai/explainable-ai-2020/)
+[Link to Papers](https://link.springer.com/book/10.1007/978-3-030-29726-8)
+Deadline: January 26, 2020
+
+3rd international workshop on explainable AI in Dublin 2020 [Call for Paper](https://human-centered.ai/explainable-ai-2020)
+
+### 2019
+2nd international workshop on explainable AI in Canterbury 2019 [Call for Paper](https://human-centered.ai/make-explainable-artificial-intelligence-2019)
+
+### 2018
+* MAKE-Explainable AI [Call for Paper](https://2018.cd-make.net/special-sessions/make-explainable-ai/index.html)
+[Link to Papers](https://link.springer.com/book/10.1007/978-3-319-99740-7)
+
+* [Explainable AI](http://cdn.bdigital.org/PDF/BDC18/BDC18_ExplainableAI.pdf); Ricardo	Baeza-Yates; Big Data Congress 2018
+* [Trust and explainability: The relationship between humans & AI](http://www.imm.dtu.dk/~tobo/AI_chora2.pdf); Thomas Bolander;  The measure of success for AI applications is the value they create for human lives. In that light, they should be designed to enable people to understand AI systems successfully, participate in their use, and build their trust. AI technologies already pervade our lives. As they become a central force in society, the field is shifting from simply building systems that are intelligent to building intelligent systems that are human-aware and trustworthy.
+* [21 fairness definitions and their politics](https://fairmlbook.org/tutorial2.html); This tutorial has two goals. The first is to explain the technical definitions. In doing so, I will aim to make explicit the values embedded in each of them. This will help policymakers and others better understand what is truly at stake in debates about fairness criteria (such as individual fairness versus group fairness, or statistical parity versus error-rate equality). It will also help com�puter scientists recognize that the proliferation of definitions is to be celebrated, not shunned, and that the search for one true definition is not a fruitful direction, as technical considerations cannot adjudicate moral debates.
+* [Proceedings of the 2018 ICML Workshop on Human Interpretability in Machine Learning (WHI 2018)](https://arxiv.org/html/1807.01308)
+* [ECML PKDD International Workshop on eXplainable Knowledge Discovery in Data Mining (XKDD 2018)](https://link.springer.com/book/10.1007%2F978-3-030-13453-2)
+
+### 2017
+
+* [NIPS 2017 Tutorial on Fairness in Machine Learning](https://fairmlbook.org/tutorial1.html); Solon Barocas, Moritz Hardt
+* [Interpretability for AI safety](http://s.interpretable.ml/nips_interpretable_ml_2017_victoria_Krakovna.pdf); Victoria Krakovna; Long-term AI safety, Reliably specifying human preferences and values to advanced AI systems, Setting incentives for AI systems that are aligned with these preferences
+* [Debugging machine-learning](https://www.slideshare.net/lopusz/debugging-machinelearning); Michał Łopuszyński; Model introspection You can answer thy why question, only for very simple models (e.g., linear model, basic decision trees) Sometimes, it is instructive to run such a simple model on your dataset, even though it does not provide top-level performance You can boost your simple model by feeding it with more advanced (non-linearly transformed) features 
 
 ## Tools
 * [ModelOriented](https://github.com/ModelOriented); A collection of tools and packages.
@@ -391,24 +449,6 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 ### 2006
 * [Learning Interpretable Models](http://www.stefan-rueping.de/publications/rueping_2006b.pdf); Stefan R ̈uping;  
-
-## Conferences
-
-## Workshops
-
-### 2018
-
-* [Explainable AI](http://cdn.bdigital.org/PDF/BDC18/BDC18_ExplainableAI.pdf); Ricardo	Baeza-Yates; Big Data Congress 2018
-* [Trust and explainability: The relationship between humans & AI](http://www.imm.dtu.dk/~tobo/AI_chora2.pdf); Thomas Bolander;  The measure of success for AI applications is the value they create for human lives. In that light, they should be designed to enable people to understand AI systems successfully, participate in their use, and build their trust. AI technologies already pervade our lives. As they become a central force in society, the field is shifting from simply building systems that are intelligent to building intelligent systems that are human-aware and trustworthy.
-* [21 fairness definitions and their politics](https://fairmlbook.org/tutorial2.html); This tutorial has two goals. The first is to explain the technical definitions. In doing so, I will aim to make explicit the values embedded in each of them. This will help policymakers and others better understand what is truly at stake in debates about fairness criteria (such as individual fairness versus group fairness, or statistical parity versus error-rate equality). It will also help com­puter scientists recognize that the proliferation of definitions is to be celebrated, not shunned, and that the search for one true definition is not a fruitful direction, as technical considerations cannot adjudicate moral debates.
-* [Proceedings of the 2018 ICML Workshop on Human Interpretability in Machine Learning (WHI 2018)](https://arxiv.org/html/1807.01308)
-* [ECML PKDD International Workshop on eXplainable Knowledge Discovery in Data Mining (XKDD 2018)](https://link.springer.com/book/10.1007%2F978-3-030-13453-2)
-
-### 2017
-
-* [NIPS 2017 Tutorial on Fairness in Machine Learning](https://fairmlbook.org/tutorial1.html); Solon Barocas, Moritz Hardt
-* [Interpretability for AI safety](http://s.interpretable.ml/nips_interpretable_ml_2017_victoria_Krakovna.pdf); Victoria Krakovna; Long-term AI safety, Reliably specifying human preferences and values to advanced AI systems, Setting incentives for AI systems that are aligned with these preferences
-* [Debugging machine-learning](https://www.slideshare.net/lopusz/debugging-machinelearning); Michał Łopuszyński; Model introspection You can answer thy why question, only for very simple models (e.g., linear model, basic decision trees) Sometimes, it is instructive to run such a simple model on your dataset, even though it does not provide top-level performance You can boost your simple model by feeding it with more advanced (non-linearly transformed) features  
 
 ## Other
 
