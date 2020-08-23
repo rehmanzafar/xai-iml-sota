@@ -128,6 +128,10 @@ Deadline: December  15, 2020
 [Call for Paper](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/CFP_EAIMC-1592293488050.pdf)
 Deadline: December  01, 2020
 
+* Special Issue on Explainable Robotic Systems in ACM Transactions on Human-Robot Interaction 
+[Call for Paper](https://dl.acm.org/journal/thri/cfp-explainable.cfm)
+Deadline: December  01, 2020
+
 * Special Issue on Algorithmic Bias and Fairness in Search and Recommendation in Information Processing & Management 
 [Call for Paper](https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-algorithmic-bias-and-fairness-in-search)
 Deadline: November  15, 2020
@@ -144,18 +148,17 @@ Deadline: May 01, 2020
 [Videos](https://slideslive.com/icml-2020/xxai-extending-explainable-ai-beyond-deep-models-and-classifiers) [Link to Papers](http://interpretable-ml.org/icml2020workshop/#papers)
 Deadline:  June 19, 2020
 
-* eXplainable Knowledge Discovery in Data Mining [Call for Paper](https://kdd.isti.cnr.it/xkdd2020/)
-
+* eXplainable Knowledge Discovery in Data Mining [Call for Paper](https://kdd.isti.cnr.it/xkdd2020/) 
 Deadline:  June 19, 2020
 
 * Explainable AI xAI 2020 [Call for Paper](https://human-centered.ai/explainable-ai-2020/)
 [Link to Papers](https://link.springer.com/book/10.1007/978-3-030-29726-8)
 Deadline: January 26, 2020
 
-3rd international workshop on explainable AI in Dublin 2020 [Call for Paper](https://human-centered.ai/explainable-ai-2020)
+* 3rd international workshop on explainable AI in Dublin 2020 [Call for Paper](https://human-centered.ai/explainable-ai-2020)
 
 #### 2019
-2nd international workshop on explainable AI in Canterbury 2019 [Call for Paper](https://human-centered.ai/make-explainable-artificial-intelligence-2019)
+* 2nd international workshop on explainable AI in Canterbury 2019 [Call for Paper](https://human-centered.ai/make-explainable-artificial-intelligence-2019)
 
 #### 2018
 * MAKE-Explainable AI [Call for Paper](https://2018.cd-make.net/special-sessions/make-explainable-ai/index.html)
