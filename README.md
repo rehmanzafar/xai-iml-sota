@@ -47,7 +47,7 @@
 You can find a collection of scientific publications listed [here](publications.md). Also, latest publications can be downloaded from arxiv.org by executing the R script provided in [xai-iml-sota.R](xai-iml-sota.R) file.
 
 ## Books
-*[Interpretable AI](https://www.manning.com/books/interpretable-ai); Ajay Thampi
+* [Interpretable AI](https://www.manning.com/books/interpretable-ai); Ajay Thampi
 
 * [Human-in-the-Loop Machine Learning](https://www.manning.com/books/human-in-the-loop-machine-learning); Robert Munro; [Github](https://github.com/rmunro/pytorch_active_learning)
 
