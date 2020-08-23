@@ -139,7 +139,7 @@ Deadline: May 01, 2020
 ### Conferences
 
 ### Workshops
-### 2020
+#### 2020
 * XXAI: Extending Explainable AI Beyond Deep Models and Classifiers [Call for Paper](http://interpretable-ml.org/icml2020workshop/)
 [Videos](https://slideslive.com/icml-2020/xxai-extending-explainable-ai-beyond-deep-models-and-classifiers) [Link to Papers](http://interpretable-ml.org/icml2020workshop/#papers)
 Deadline:  June 19, 2020
@@ -154,10 +154,10 @@ Deadline: January 26, 2020
 
 3rd international workshop on explainable AI in Dublin 2020 [Call for Paper](https://human-centered.ai/explainable-ai-2020)
 
-### 2019
+#### 2019
 2nd international workshop on explainable AI in Canterbury 2019 [Call for Paper](https://human-centered.ai/make-explainable-artificial-intelligence-2019)
 
-### 2018
+#### 2018
 * MAKE-Explainable AI [Call for Paper](https://2018.cd-make.net/special-sessions/make-explainable-ai/index.html)
 [Link to Papers](https://link.springer.com/book/10.1007/978-3-319-99740-7)
 
