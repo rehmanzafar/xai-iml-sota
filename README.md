@@ -11,7 +11,7 @@
 * [Online articles](README.md#online)
 * [Audios](README.md#audios)
 * [Videos](README.md#videos)
-* [Publication Venues](README.md#venues)
+* [Publication Venues](README.md#publication)
 * [Others](README.md#other)
 
 ## Researchers
