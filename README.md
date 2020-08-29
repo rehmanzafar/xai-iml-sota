@@ -121,7 +121,7 @@ You can find a collection of scientific publications listed [here](publications.
 [Call for Paper](https://human-centered.ai/special-issue-explainable-ai-medical-informatics-decision-making/)
 Deadline: December  31, 2020
 
-* Special Issue on Advances in Explainable (XAI) and Responsible (RAI) Artificial Intelligence 
+* Special Issue on Advances in Explainable (XAI) and Responsible (RAI) Artificial Intelligence in Elsevier Jounal of Information Fusion 
 [Call for Paper](https://www.journals.elsevier.com/information-fusion/call-for-papers/multi-sensor-multi-source-information-fusion)
 Deadline: December  15, 2020
 
