@@ -117,6 +117,10 @@ You can find a collection of scientific publications listed [here](publications.
 
 ## Publication Venues
 ### Journals
+* Call for Papers: Special Issue on Foundations of Data Science in Springer Machine Learning 
+[Call for Paper](https://www.springer.com/journal/10994/updates/17773744)
+Deadline: March  01, 2021
+
 * Special Issue Springer/Nature BMC Medical Informatics and Decision Making 
 [Call for Paper](https://human-centered.ai/special-issue-explainable-ai-medical-informatics-decision-making/)
 Deadline: December  31, 2020
