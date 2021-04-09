@@ -214,6 +214,8 @@ Deadline: January 26, 2020
 * [Debugging machine-learning](https://www.slideshare.net/lopusz/debugging-machinelearning); MichaÅ‚ ÅopuszyÅ„ski; Model introspection You can answer thy why question, only for very simple models (e.g., linear model, basic decision trees) Sometimes, it is instructive to run such a simple model on your dataset, even though it does not provide top-level performance You can boost your simple model by feeding it with more advanced (non-linearly transformed) features 
 
 ## Tools
+* [GRACE](https://github.com/lethaiq/GRACE_KDD20); This work proposed to generate concise and informative contrastive sample to explain neural network model’s prediction for tabular datasets.
+
 * [ModelOriented](https://github.com/ModelOriented); A collection of tools and packages.
 
 * [DLIME](https://github.com/rehmanzafar/dlime_experiments); This work proposed a deterministic version of Local Interpretable Model Agnostic Explanations (LIME) and the experimental results on three different medical datasets shows the superiority for Deterministic Local Interpretable Model-Agnostic Explanations (DLIME). 
