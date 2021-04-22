@@ -56,6 +56,8 @@
 You can find a collection of scientific publications listed [here](publications.md). Also, latest publications can be downloaded from arxiv.org by executing the R script provided in [xai-iml-sota.R](xai-iml-sota.R) file.
 
 ## Books
+* [Interpretable Machine Learning with Python] (https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907), [Amazon](https://www.amazon.com/Interpretable-Machine-Learning-Python-interpretability-ebook/dp/B08PDFXXRL); Serg Masis
+
 * [Interpretable AI](https://www.manning.com/books/interpretable-ai); Ajay Thampi
 
 * [Human-in-the-Loop Machine Learning](https://www.manning.com/books/human-in-the-loop-machine-learning); Robert Munro; [Github](https://github.com/rmunro/pytorch_active_learning)
