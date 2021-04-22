@@ -25,7 +25,11 @@
 * Andreas Holzinger [Google Scholars](https://scholar.google.com/citations?user=BTBd5V4AAAAJ&hl=en), [Web](http://www.aholzinger.at/), [Research Group](https://human-centered.ai/)
 * Cynthia Rudin [Google Scholars](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en), [Web](https://users.cs.duke.edu/~cynthia/home.html) 
 * Fred Hohman [Google Scholars](https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en), [Web](https://fredhohman.com/), [Github](https://github.com/fredhohman)
-* Ãngel Alexander Cabrera [Google Scholars](https://scholar.google.com/citations?user=r89SDm0AAAAJ&hl=en), [Web](http://cabreraalex.com/), [Github](https://github.com/cabreraalex)
+* Dino Pedreschi [Google Scholars](https://scholar.google.com/citations?user=5efz6osAAAAJ&hl=en), [Web](http://pages.di.unipi.it/pedreschi/), [Research Group](https://kdd.isti.cnr.it/) 
+* Fosca Giannotti [Google Scholars](https://scholar.google.com/citations?user=PKz_a_AAAAAJ&hl=en), [Web](http://kdd.isti.cnr.it/homes/giannotti), [Research Group](https://kdd.isti.cnr.it/) 
+* Anna Monreale [Google Scholars](https://scholar.google.it/citations?user=bA-rXeUAAAAJ&hl=en), [Web](http://kdd.isti.cnr.it/homes/monreale/), [Research Group](https://kdd.isti.cnr.it/) 
+* Riccardo Guidotti [Google Scholars](https://scholar.google.it/citations?user=KZUaK6YAAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/guidotti-riccardo), [Github](https://github.com/riccotti), [Research Group](https://kdd.isti.cnr.it/) 
+* Angel Alexander Cabrera [Google Scholars](https://scholar.google.com/citations?user=r89SDm0AAAAJ&hl=en), [Web](http://cabreraalex.com/), [Github](https://github.com/cabreraalex)
 * Mennatallah El-Assady [Google Scholars](https://scholar.google.de/citations?user=ZEGgJM4AAAAJ&hl=en), [Web](https://el-assady.com/), [Research Group](http://vialab.science.uoit.ca/research)
 * Marco Tulio Ribeiro [Google Scholars](https://scholar.google.com/citations?user=rmsIyGMAAAAJ&hl=en&oi=sra), [Web](https://homes.cs.washington.edu/~marcotcr/), [Github](https://github.com/marcotcr)
 * Scott Lundberg [Google Scholars](https://scholar.google.ca/citations?user=ESRugcEAAAAJ&hl=en), [Web](https://scottlundberg.com/), [Github](https://github.com/slundberg)
@@ -34,7 +38,12 @@
 * Sebastian Lapuschkin [Google Scholars](https://scholar.google.de/citations?user=wpLQuroAAAAJ&hl=en), [Web](http://iphome.hhi.de/lapuschkin/), [Github](https://github.com/sebastian-lapuschkin), [Research Group](http://www.explain-ai.org)
 * Przemyslaw Biecek [Google Scholars](https://scholar.google.com/citations?user=Af0O75cAAAAJ&hl=en), [Github](https://github.com/pbiecek/), [Research Group](https://mi2-warsaw.github.io/)
 * Rich Caruana [DBLP](https://dblp.uni-trier.de/pers/hd/c/Caruana:Rich)
+* Swati Sachan [DBLP](https://dblp.uni-trier.de/pid/253/0519.html), [Web](https://www.research.manchester.ac.uk/portal/swati.sachan.html)
 * Patrick Hall [Google Scholars](https://scholar.google.com/citations?user=cxvaldkAAAAJ&hl=en), [Github](https://github.com/jphall663)
+* Francesco Bodria [Google Scholars](https://scholar.google.com/citations?user=uHztM40AAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/bodria-francesco), [Github](https://github.com/francescobodria), [Research Group](https://kdd.isti.cnr.it/) 
+* Cecilia Panigutti [Google Scholars](https://scholar.google.com/citations?user=5ILF8RgAAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/panigutti-cecilia), [Github](https://github.com/CeciPani), [Research Group](https://kdd.isti.cnr.it/) 
+* Mattia Setzu [Google Scholars](https://scholar.google.ca/citations?user=3UL0kVUAAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/setzu-mattia), [Github](https://github.com/msetzu), [Research Group](https://kdd.isti.cnr.it/)
+* Francesca Naretto [Web](https://kdd.isti.cnr.it/people/naretto-francesca), [Research Group](https://kdd.isti.cnr.it/) 
 
 ## Lectures
 * [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/). Fall 2019; Instructor: Hima Lakkaraju
@@ -125,15 +134,43 @@ You can find a collection of scientific publications listed [here](publications.
 
 ## Publication Venues
 ### Journals
-* Call for Papers: Special Issue on Foundations of Data Science in Springer Machine Learning 
+* Special Issue "Explainable Artificial Intelligence (XAI)" in MDPI's Applied Sciences
+[Call for Paper](https://www.mdpi.com/journal/applsci/special_issues/Explainable_Artificial_Intelligence_XAI)
+Deadline: July 10, 2021
+
+* Special Issue on Explainable Artificial Intelligence for Healthcare in Elsevier's Future Generation Computer Systems
+[Call for Paper](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/explainable-artificial-intelligence-for-healthcare)
+Deadline: July 01, 2021
+
+* Special Issue "Advances in Explainable Artificial Intelligence" in MDPI's Information
+[Call for Paper](https://sites.google.com/view/special-issue-on-xai-ieee-cim)
+Deadline: May 31, 2021
+
+* Special Issue on: Explainable AI (XAI) for Web-based Information Processing in Elsevier's Information Processing & Management
+[Call for Paper](https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/explainable-ai-xai-for-web-based-information-processing)
+Deadline: April 30, 2021
+
+* Call for Papers: Special Issue on Explainable and Interpretable Machine Learning and Data Mining in Springer's Data Mining and Knowledge Discovery 
+[Call for Paper](https://www.springer.com/journal/10618/updates/18745970)
+Deadline: March  31, 2021
+
+* Call for Papers: Special Issue on Foundations of Data Science in Springer's Machine Learning 
 [Call for Paper](https://www.springer.com/journal/10994/updates/17773744)
 Deadline: March  01, 2021
+
+* Special Issue Explainable and Trustworthy Artificial Intelligence in IEEE Computational Intelligence Magazine
+[Call for Paper](https://sites.google.com/view/special-issue-on-xai-ieee-cim)
+Deadline: February 22, 2021
 
 * Special Issue Springer/Nature BMC Medical Informatics and Decision Making 
 [Call for Paper](https://human-centered.ai/special-issue-explainable-ai-medical-informatics-decision-making/)
 Deadline: December  31, 2020
 
-* Special Issue on Advances in Explainable (XAI) and Responsible (RAI) Artificial Intelligence in Elsevier Jounal of Information Fusion 
+* Call for Papers: Special Issue on Explainable AI and Machine Learning in IEEE's Magazine - Computer
+[Call for Paper](https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-explainable-ai-and-machine-learning)
+Deadline: December 31, 2020
+
+* Special Issue on Advances in Explainable (XAI) and Responsible (RAI) Artificial Intelligence in Elsevier's Jounal of Information Fusion 
 [Call for Paper](https://www.journals.elsevier.com/information-fusion/call-for-papers/multi-sensor-multi-source-information-fusion)
 Deadline: December  15, 2020
 
@@ -145,7 +182,7 @@ Deadline: December  01, 2020
 [Call for Paper](https://dl.acm.org/journal/thri/cfp-explainable.cfm)
 Deadline: December  01, 2020
 
-* Special Issue on Algorithmic Bias and Fairness in Search and Recommendation in Information Processing & Management 
+* Special Issue on Algorithmic Bias and Fairness in Search and Recommendation in Elsevier's Information Processing & Management 
 [Call for Paper](https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-algorithmic-bias-and-fairness-in-search)
 Deadline: November  15, 2020
 
@@ -157,13 +194,21 @@ Deadline: October  30, 2020
 [Call for Paper](https://www.mdpi.com/journal/applsci/special_issues/Explainable_Artificial_Intelligence_XAI)
 Deadline: September  30, 2020
 
-* Special Issue on Explainable Artificial Intelligence in Artificial Intelligence 
+* Explainable AI for Clinical and Population Health Informatics in IEEE Journal of Biomedical and Health Informatics
+[Call for Paper](https://www.embs.org/explainable-ai-for-clinical-and-population-health-informatics/)
+Deadline: August 24, 2020
+
+* Special Issue on Explainable Artificial Intelligence in Elsevier's Artificial Intelligence 
 [Call for Paper](https://www.journals.elsevier.com/artificial-intelligence/call-for-papers/special-issue-on-explainable-artificial-intelligence)
 Deadline: May 01, 2020
 
 * Special Issue on Learning Complex Couplings and Interactions in IEEE Intelligent Systems
 [Call for Paper](https://www.computer.org/digital-library/magazines/ex/call-for-papers-special-issue-on-learning-complex-couplings-and-interactions)
 Deadline: May 30, 2020
+
+* ACM THRI Special Issue on Explainable Robotic Systems in ACM Transactions on Human-Robot Interaction
+[Call for Paper](https://dl.acm.org/journal/thri/cfp-explainable.cfm)
+Deadline: December 01, 2019
 
 ### Conferences
 
