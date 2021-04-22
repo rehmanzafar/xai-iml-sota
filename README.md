@@ -33,7 +33,7 @@
 * Mennatallah El-Assady [Google Scholars](https://scholar.google.de/citations?user=ZEGgJM4AAAAJ&hl=en), [Web](https://el-assady.com/), [Research Group](http://vialab.science.uoit.ca/research)
 * Marco Tulio Ribeiro [Google Scholars](https://scholar.google.com/citations?user=rmsIyGMAAAAJ&hl=en&oi=sra), [Web](https://homes.cs.washington.edu/~marcotcr/), [Github](https://github.com/marcotcr)
 * Scott Lundberg [Google Scholars](https://scholar.google.ca/citations?user=ESRugcEAAAAJ&hl=en), [Web](https://scottlundberg.com/), [Github](https://github.com/slundberg)
-* Klaus-Robert MÃ¼ller [Google Scholars](https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
+* Klaus-Robert Muller [Google Scholars](https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Wojciech Samek [Google Scholars](https://scholar.google.com/citations?user=7aQwO08AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Sebastian Lapuschkin [Google Scholars](https://scholar.google.de/citations?user=wpLQuroAAAAJ&hl=en), [Web](http://iphome.hhi.de/lapuschkin/), [Github](https://github.com/sebastian-lapuschkin), [Research Group](http://www.explain-ai.org)
 * Przemyslaw Biecek [Google Scholars](https://scholar.google.com/citations?user=Af0O75cAAAAJ&hl=en), [Github](https://github.com/pbiecek/), [Research Group](https://mi2-warsaw.github.io/)
