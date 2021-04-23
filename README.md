@@ -136,6 +136,9 @@ You can find a collection of scientific publications listed [here](publications.
 
 ## Publication Venues
 ### Journals
+* Call for Papers: Special Issue on Explainable Artificial Intelligence in the Spatial Domain (X-GeoAI) [Call for Paper](https://onlinelibrary.wiley.com/pb-assets/14679671/CFP_Explainable-1614893338537.pdf)
+Deadline: November 30, 2021 
+
 * Special Issue "Explainable Artificial Intelligence (XAI)" in MDPI's Applied Sciences
 [Call for Paper](https://www.mdpi.com/journal/applsci/special_issues/Explainable_Artificial_Intelligence_XAI)
 Deadline: July 10, 2021
@@ -156,12 +159,15 @@ Deadline: April 30, 2021
 [Call for Paper](https://www.springer.com/journal/10618/updates/18745970)
 Deadline: March  31, 2021
 
+* IEEE SPM Special Issue on Explainability in Data Science: Interpretability, Reproducibility, and Replicability in IEEE Signal Processing [Call for Paper](https://signalprocessingsociety.org/sites/default/files/uploads/special_issues_deadlines/SPM_SI_explainability.pdf)
+Deadline: March  22, 2021
+
 * Call for Papers: Special Issue on Foundations of Data Science in Springer's Machine Learning 
 [Call for Paper](https://www.springer.com/journal/10994/updates/17773744)
 Deadline: March  01, 2021
 
 * Special Issue Explainable and Trustworthy Artificial Intelligence in IEEE Computational Intelligence Magazine
-[Call for Paper](https://sites.google.com/view/special-issue-on-xai-ieee-cim)
+[Call for Paper](https://cis.ieee.org/images/files/Documents/call-for-papers/cim/CIM_SI_XAI_CFP.pdf)
 Deadline: February 22, 2021
 
 * Special Issue Springer/Nature BMC Medical Informatics and Decision Making 
@@ -187,6 +193,10 @@ Deadline: December  01, 2020
 * Special Issue on Algorithmic Bias and Fairness in Search and Recommendation in Elsevier's Information Processing & Management 
 [Call for Paper](https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/special-issue-on-algorithmic-bias-and-fairness-in-search)
 Deadline: November  15, 2020
+
+* Special Issue on Explainable AI on Multimedia Computing in ACM Transactions on Multimedia Computing, Communications, and Applications 
+[Call for Paper](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/CFP_EAIMC-1592293488050.pdf)
+Deadline: November  01, 2020
 
 * Special Issue on Explainable AI and Machine Learning in IEEE Computer
 [Call for Paper](https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-explainable-ai-and-machine-learning)
