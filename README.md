@@ -25,14 +25,14 @@
 * Andreas Holzinger [Google Scholars](https://scholar.google.com/citations?user=BTBd5V4AAAAJ&hl=en), [Web](http://www.aholzinger.at/), [Research Group](https://human-centered.ai/)
 * Cynthia Rudin [Google Scholars](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en), [Web](https://users.cs.duke.edu/~cynthia/home.html) 
 * Fred Hohman [Google Scholars](https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en), [Web](https://fredhohman.com/), [Github](https://github.com/fredhohman)
+* Marco Tulio Ribeiro [Google Scholars](https://scholar.google.com/citations?user=rmsIyGMAAAAJ&hl=en&oi=sra), [Web](https://homes.cs.washington.edu/~marcotcr/), [Github](https://github.com/marcotcr)
+* Scott Lundberg [Google Scholars](https://scholar.google.ca/citations?user=ESRugcEAAAAJ&hl=en), [Web](https://scottlundberg.com/), [Github](https://github.com/slundberg)
 * Dino Pedreschi [Google Scholars](https://scholar.google.com/citations?user=5efz6osAAAAJ&hl=en), [Web](http://pages.di.unipi.it/pedreschi/), [Research Group](https://kdd.isti.cnr.it/) 
 * Fosca Giannotti [Google Scholars](https://scholar.google.com/citations?user=PKz_a_AAAAAJ&hl=en), [Web](http://kdd.isti.cnr.it/homes/giannotti), [Research Group](https://kdd.isti.cnr.it/) 
 * Anna Monreale [Google Scholars](https://scholar.google.it/citations?user=bA-rXeUAAAAJ&hl=en), [Web](http://kdd.isti.cnr.it/homes/monreale/), [Research Group](https://kdd.isti.cnr.it/) 
 * Riccardo Guidotti [Google Scholars](https://scholar.google.it/citations?user=KZUaK6YAAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/guidotti-riccardo), [Github](https://github.com/riccotti), [Research Group](https://kdd.isti.cnr.it/) 
 * Angel Alexander Cabrera [Google Scholars](https://scholar.google.com/citations?user=r89SDm0AAAAJ&hl=en), [Web](http://cabreraalex.com/), [Github](https://github.com/cabreraalex)
 * Mennatallah El-Assady [Google Scholars](https://scholar.google.de/citations?user=ZEGgJM4AAAAJ&hl=en), [Web](https://el-assady.com/), [Research Group](http://vialab.science.uoit.ca/research)
-* Marco Tulio Ribeiro [Google Scholars](https://scholar.google.com/citations?user=rmsIyGMAAAAJ&hl=en&oi=sra), [Web](https://homes.cs.washington.edu/~marcotcr/), [Github](https://github.com/marcotcr)
-* Scott Lundberg [Google Scholars](https://scholar.google.ca/citations?user=ESRugcEAAAAJ&hl=en), [Web](https://scottlundberg.com/), [Github](https://github.com/slundberg)
 * Klaus-Robert Muller [Google Scholars](https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Wojciech Samek [Google Scholars](https://scholar.google.com/citations?user=7aQwO08AAAAJ&hl=en), [Research Group](http://www.explain-ai.org)
 * Sebastian Lapuschkin [Google Scholars](https://scholar.google.de/citations?user=wpLQuroAAAAJ&hl=en), [Web](http://iphome.hhi.de/lapuschkin/), [Github](https://github.com/sebastian-lapuschkin), [Research Group](http://www.explain-ai.org)
@@ -44,6 +44,7 @@
 * Cecilia Panigutti [Google Scholars](https://scholar.google.com/citations?user=5ILF8RgAAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/panigutti-cecilia), [Github](https://github.com/CeciPani), [Research Group](https://kdd.isti.cnr.it/) 
 * Mattia Setzu [Google Scholars](https://scholar.google.ca/citations?user=3UL0kVUAAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/setzu-mattia), [Github](https://github.com/msetzu), [Research Group](https://kdd.isti.cnr.it/)
 * Francesca Naretto [Web](https://kdd.isti.cnr.it/people/naretto-francesca), [Research Group](https://kdd.isti.cnr.it/) 
+* Marco Huber [Google Scholars](https://scholar.google.com/citations?user=SUU9998AAAAJ&hl=en), [Web](https://www.uni-stuttgart.de/en/press/experts/Prof.-Dr.-Marco-Huber/)
 
 ## Lectures
 * [Interpretability and Explainability in Machine Learning, Harvard University](https://interpretable-ml-class.github.io/). Fall 2019; Instructor: Hima Lakkaraju
