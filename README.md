@@ -43,7 +43,7 @@
 * Francesco Bodria [Google Scholars](https://scholar.google.com/citations?user=uHztM40AAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/bodria-francesco), [Github](https://github.com/francescobodria), [Research Group](https://kdd.isti.cnr.it/) 
 * Cecilia Panigutti [Google Scholars](https://scholar.google.com/citations?user=5ILF8RgAAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/panigutti-cecilia), [Github](https://github.com/CeciPani), [Research Group](https://kdd.isti.cnr.it/) 
 * Mattia Setzu [Google Scholars](https://scholar.google.ca/citations?user=3UL0kVUAAAAJ&hl=en), [Web](https://kdd.isti.cnr.it/people/setzu-mattia), [Github](https://github.com/msetzu), [Research Group](https://kdd.isti.cnr.it/)
-* Francesca Naretto [Web](https://kdd.isti.cnr.it/people/naretto-francesca), [Research Group](https://kdd.isti.cnr.it/) 
+* Francesca Naretto [Web](https://kdd.isti.cnr.it/people/naretto-francesca), [Github](https://github.com/francescanaretto), [Research Group](https://kdd.isti.cnr.it/) 
 * Marco Huber [Google Scholars](https://scholar.google.com/citations?user=SUU9998AAAAJ&hl=en), [Web](https://www.uni-stuttgart.de/en/press/experts/Prof.-Dr.-Marco-Huber/)
 
 ## Lectures
