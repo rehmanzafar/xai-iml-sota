@@ -149,8 +149,8 @@ Deadline: July 10, 2021
 Deadline: July 01, 2021
 
 * Special Issue "Advances in Explainable Artificial Intelligence" in MDPI's Information
-[Call for Paper](https://sites.google.com/view/special-issue-on-xai-ieee-cim)
-Deadline: May 31, 2021
+[Call for Paper](https://www.mdpi.com/journal/information/special_issues/advance_explain_AI)
+Deadline: July 31, 2021
 
 * Special Issue on: Explainable AI (XAI) for Web-based Information Processing in Elsevier's Information Processing & Management
 [Call for Paper](https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/explainable-ai-xai-for-web-based-information-processing)
