@@ -140,6 +140,10 @@ You can find a collection of scientific publications listed [here](publications.
 * Call for Papers: Special Issue on Explainable Artificial Intelligence in the Spatial Domain (X-GeoAI) [Call for Paper](https://onlinelibrary.wiley.com/pb-assets/14679671/CFP_Explainable-1614893338537.pdf)
 Deadline: November 30, 2021 
 
+* Special Issue on: Explainable AI (XAI) for Web-based Information Processing in Elsevier's Information Processing & Management
+[Call for Paper](https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/explainable-ai-xai-for-web-based-information-processing)
+Deadline: October 30, 2021
+
 * Special Issue "Advances in Explainable Artificial Intelligence" in MDPI's Information
 [Call for Paper](https://www.mdpi.com/journal/information/special_issues/advance_explain_AI)
 Deadline: July 31, 2021
@@ -151,10 +155,6 @@ Deadline: July 10, 2021
 * Special Issue on Explainable Artificial Intelligence for Healthcare in Elsevier's Future Generation Computer Systems
 [Call for Paper](https://www.journals.elsevier.com/future-generation-computer-systems/call-for-papers/explainable-artificial-intelligence-for-healthcare)
 Deadline: July 01, 2021
-
-* Special Issue on: Explainable AI (XAI) for Web-based Information Processing in Elsevier's Information Processing & Management
-[Call for Paper](https://www.journals.elsevier.com/information-processing-and-management/call-for-papers/explainable-ai-xai-for-web-based-information-processing)
-Deadline: April 30, 2021
 
 * Call for Papers: Special Issue on Explainable and Interpretable Machine Learning and Data Mining in Springer's Data Mining and Knowledge Discovery 
 [Call for Paper](https://www.springer.com/journal/10618/updates/18745970)
