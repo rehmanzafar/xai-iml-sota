@@ -563,3 +563,4 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 * XAI Resources [Link](https://github.com/pbiecek/xai_resources)
 * Awesome Machine Learning Interpretability [Link](https://github.com/jphall663/awesome-machine-learning-interpretability)
 * Awesome production machine learning [Link](https://github.com/EthicalML/awesome-production-machine-learning)
+* Awesome fairness in AI [Link](https://github.com/datamllab/awesome-fairness-in-ai)
