@@ -272,6 +272,8 @@ Deadline: January 26, 2020
 * [Debugging machine-learning](https://www.slideshare.net/lopusz/debugging-machinelearning); MichaÅ‚ ÅopuszyÅ„ski; Model introspection You can answer thy why question, only for very simple models (e.g., linear model, basic decision trees) Sometimes, it is instructive to run such a simple model on your dataset, even though it does not provide top-level performance You can boost your simple model by feeding it with more advanced (non-linearly transformed) features 
 
 ## Tools
+* [EUCA](https://weinajin.github.io/end-user-xai); A practical prototyping tool to guide AI practitioners and researchers to design explainable AI systems for non-technical end-users. It contains end-users' perceptions on feature-, example-, and rule-based explanations.
+
 * [GRACE](https://github.com/lethaiq/GRACE_KDD20); This work proposed to generate concise and informative contrastive sample to explain neural network model’s prediction for tabular datasets.
 
 * [ModelOriented](https://github.com/ModelOriented); A collection of tools and packages.
