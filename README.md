@@ -528,6 +528,9 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 
 ## Thesis
 
+### 2021
+* [Machine Learning for Humans: Building Models that Adapt to Behavior](https://dash.harvard.edu/handle/1/37370232); [Download](https://dash.harvard.edu/bitstream/handle/1/37370232/dissertation_ashilgard.pdf) , Anna Sophia Hilgard
+
 ### 2020
 * [Can prediction explanations be trusted? On the evaluation of interpretable machine learning methods ](https://fse.studenttheses.ub.rug.nl/21985/1/mAI_2020_DiepgrondD.pdf); , Denny Diepgrond
 
