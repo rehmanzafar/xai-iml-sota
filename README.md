@@ -529,6 +529,9 @@ Erik Stolterman Bergqvist; develop AI systems that technically can explain their
 ## Thesis
 
 ### 2021
+* [Interpretable Machine Learning Model for Clinical Decision Making](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=2164&context=gscis_etd/); Ali El-Sharif
+
+### 2021
 * [Machine Learning for Humans: Building Models that Adapt to Behavior](https://dash.harvard.edu/handle/1/37370232); [Download](https://dash.harvard.edu/bitstream/handle/1/37370232/dissertation_ashilgard.pdf) Anna Sophia Hilgard
 
 ### 2020
