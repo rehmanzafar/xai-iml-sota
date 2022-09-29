@@ -4,6 +4,7 @@
 * [Lectures](README.md#lectures)
 * [Scientific Publications](README.md#publications)
 * [Books](README.md#books)
+* [Presentations](README.md#presentations)
 * [Thesis](README.md#thesis)
 * [Software tools](README.md#tools)
 * [Visualization toolkits](README.md#toolkits)
@@ -52,6 +53,11 @@
 * [Interpretable Machine Learning at Warsaw University of Technology and University of Warsaw](https://github.com/pbiecek/InterpretableMachineLearning2020). Summer semester 2019/2020; Instructor: PrzemysÅ‚aw Biecek
 
 * [CS 294-131: Trustworthy Deep Learning (Special Topics in Deep Learning) at Berkeley University of California](https://berkeley-deep-learning.github.io/cs294-131-s19/). Spring 2019; Instructors: Trevor Darrell, Dawn Song, Jacob Steinhardt 
+
+## Presentations
+* [Explainable AI: Opening up the Black Box](https://webpages.charlotte.edu/rwesslen/xai-davidson/slides.html#1); Ryan Wesslen
+
+* [Explainable AI](https://accessproceedings.ca/index.php/access/article/view/81/19); Michael Ridley
 
 ## Publications
 You can find a collection of scientific publications listed [here](publications.md). Also, latest publications can be downloaded from arxiv.org by executing the R script provided in [xai-iml-sota.R](xai-iml-sota.R) file.
